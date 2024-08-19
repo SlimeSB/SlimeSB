@@ -1,0 +1,38 @@
+﻿行号,本地化键名,原文,原译文,现译文
+1152,itemGroup.thebetweenlands.special,The Betweenlands Specials,交错次元丨特殊物品,交错次元丨奇珍
+1157,container.bl.syrmorite_hopper,Syrmorite Hopper,赛摩铜漏斗,赛摩漏斗
+1165,container.bl.dual_sulfur_furnace,Dual Sulfur Furnace,双层硫磺熔炉,双联硫磺熔炉
+1169,container.bl.loot_urn,Loot Urn,战利品罐,机运之瓮
+1170,container.bl.mud_bricks_alcove,Mud Brick Alcove,地牢壁龛,泥砖壁龛
+1184,location.ruins.name,80:<scale:1.75>Ruins</scale>,80:<scale:1.75>遗迹</scale>,80:<scale:1.75>废墟</scale>
+1185,location.small_dungeon.name,80:<scale:1.75>Shrine</scale>,80:<scale:1.75>神庙</scale>,80:<scale:1.75>神坛</scale>
+1186,location.tar_pool_dungeon.name,80:<scale:1.75>Tar Pool Dungeon</scale>,80:<scale:1.75>焦油地牢</scale>,80:<scale:1.75>焦油池</scale>
+1187,location.cragrock_tower.name,80:Cragrock Tower,80:碎岩塔,80:峭壁岩塔
+1188,location.wight_tower.name,80:Wight Fortress,80:鬼魂城堡,80:阴魂要塞
+1189,location.wight_tower_puzzle.name,80:Armory,80:蛰伏的神剑,80:武备库
+1192,location.abandoned_shack.name,<scale:1.75>Ruins</scale>,<scale:1.75>废墟</scale>,<scale:1.75>废弃小屋</scale>
+1193,location.underground_ruins.name,80:Underground Ruins,80:地下遗迹,80:地下废墟
+1196,location.sludge_worm_dungeon_barrishee_lair.name,80:Barrishee Lair,80:喷火魔兽巢穴,80:魔怪秘窟
+1199,location.sludge_worm_dungeon_maze.name,80:Labyrinthine Vaults,80:泥沼迷宫,80:污泥迷宫
+1200,location.sludge_worm_dungeon.name,80:Sludgeon Tower,80:泥沼谜塔,80:污泥巨塔
+1213,tooltip.bl.corrosion.1,Slightly corroded,稍有磨损,稍有腐蚀
+1214,tooltip.bl.corrosion.2,Moderately corroded,轻微磨损,轻微腐蚀
+1215,tooltip.bl.corrosion.3,Very corroded,中度磨损,中度腐蚀
+1216,tooltip.bl.corrosion.4,Extremely corroded,重度磨损,重度腐蚀
+1217,tooltip.bl.corrosion.5,Completely corroded,不堪一用,完全腐蚀
+1219,tooltip.bl.coated.1,Slightly coated,稍有涂层,微薄涂层
+1220,tooltip.bl.coated.2,Moderately coated,有涂层,略磨涂层
+1221,tooltip.bl.coated.3,Moderately coated,有涂层,略磨涂层
+1222,tooltip.bl.coated.4,Well coated,涂层完好,完好涂层
+1223,tooltip.bl.coated.5,Well coated,涂层完好,完好涂层
+1245,tooltip.bl.circlegem.green,§aGreen Gem§r,§a翠绿元素§r,§a翠绿宝石§r
+1246,tooltip.bl.circlegem.crimson,§cCrimson Gem§r,§c猩红元素§r,§c绯红宝石§r
+1247,tooltip.bl.circlegem.aqua,§9Aqua Gem§r,§9水蓝元素§r,§9水蓝宝石§r
+1366,tooltip.bl.simulacrum.effect.them,Them,"""他们""",“祂们”
+1635,bl.potion.rootBound,Root Bound,根须缠绕,缠根
+1815,event.thebetweenlands.spook.name,Spook,惊吓时刻,惊魂
+1819,event.thebetweenlands.rift.name,Rift,天眼,裂空
+1908,manual.water,Water,水元素,流水
+1911,manual.earth,Earth,土元素,大地
+1912,manual.fire,Fire,火元素,炎火
+1918,manual.wind,Wind,风元素,疾风

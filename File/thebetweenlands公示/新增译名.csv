@@ -1,0 +1,361 @@
+行号,本地化键名,原文,译文,
+44,tile.thebetweenlands.weedwood_bush_infested_0.name,Pheromone Infused Weedwood Bush,诱素的杂草木灌木
+45,tile.thebetweenlands.weedwood_bush_infested_1.name,Moth Infested Weedwood Bush,蛾蚀的杂草木灌木
+46,tile.thebetweenlands.weedwood_bush_infested_2.name,Silk Grub Infested Weedwood Bush,育虫的杂草木灌木
+47,tile.thebetweenlands.weedwood_bush_infested_3.name,Silk Cocooned Weedwood Bush,裹丝的杂草木灌木
+48,tile.thebetweenlands.weedwood_bush_infested_4.name,Decay Infested Weedwood Bush,腐化的杂草木灌木
+86,tile.thebetweenlands.cragrock_bricks_cracked.name,Cracked Cragrock Bricks,裂纹峭壁岩砖
+87,tile.thebetweenlands.cragrock_bricks_mossy.name,Mossy Cragrock Bricks,峭壁苔岩砖
+90,tile.thebetweenlands.cragrock_chiseled_mossy.name,Mossy Chiseled Cragrock,錾制峭壁苔岩
+91,tile.thebetweenlands.cragrock_chiseled_cracked.name,Cracked Chiseled Cragrock,裂纹錾制峭壁岩
+94,tile.thebetweenlands.cragrock_tiles_cracked.name,Cracked Cragrock Tiles,裂纹峭壁岩地砖
+95,tile.thebetweenlands.cragrock_tiles_mossy.name,Mossy Cragrock Tiles,峭壁苔岩地砖
+172,tile.thebetweenlands.peat_smouldering.name,Smoldering Peat,阴燃泥炭
+207,tile.thebetweenlands.filtered_silt.name,Filtered Silt,澄净淤泥
+315,tile.thebetweenlands.rotten_plank_trapdoor.name,Rotten Plank Trapdoor,腐朽木板活板门
+316,tile.thebetweenlands.weedwood_trapdoor_treated.name,Treated Weedwood Trapdoor,防腐杂草木木板活板门
+317,tile.thebetweenlands.rubber_tree_plank_trapdoor_treated.name,Treated Rubber Tree Plank Trapdoor,防腐橡胶树木板活板门
+318,tile.thebetweenlands.hearthgrove_plank_trapdoor_treated.name,Treated Hearthgrove Plank Trapdoor,防腐炉树木板活板门
+319,tile.thebetweenlands.nibbletwig_plank_trapdoor_treated.name,Treated Nibbletwig Plank Trapdoor,防腐奇趣枝木板活板门
+320,tile.thebetweenlands.rotten_plank_trapdoor_treated.name,Treated Rotten Plank Trapdoor,防腐腐朽木板活板门
+321,tile.thebetweenlands.giant_root_plank_trapdoor_treated.name,Treated Giant Root Plank Trapdoor,防腐巨型树根木板活板门
+331,tile.thebetweenlands.filtered_silt_glass_pane.name,Filtered Silt Glass Pane,澄净淤泥玻璃板
+344,tile.thebetweenlands.filtered_silt_glass.name,Filtered Silt Glass,澄净淤泥玻璃
+513,tile.thebetweenlands.fishing_tackle_box.name,Fishing Tackle Box,钓具箱
+514,tile.thebetweenlands.smoking_rack.name,Smoking Rack,烟熏架
+515,tile.thebetweenlands.fish_trimming_table.name,Trimming Table,剁鱼台
+516,tile.thebetweenlands.crab_pot.name,Crab Pot,蟹笼
+517,tile.thebetweenlands.silt_glass_jar.name,Silt Glass Jar,淤泥玻璃罐
+518,tile.thebetweenlands.crab_pot_filter.name,Crab Pot Filter,蟹笼过滤器
+519,tile.thebetweenlands.pearl_block.name,Block of Pearls,珍珠块
+520,tile.thebetweenlands.betweenstone_pebble_pile.one.name,Betweenstone Pebble Pile,交错卵石堆
+521,tile.thebetweenlands.betweenstone_pebble_pile.two.name,Betweenstone Pebble Pile,交错卵石堆
+522,tile.thebetweenlands.betweenstone_pebble_pile.three.name,Betweenstone Pebble Pile,交错卵石堆
+523,tile.thebetweenlands.betweenstone_pebble_pile.four.name,Betweenstone Pebble Pile,交错卵石堆
+524,tile.thebetweenlands.betweenstone_pebble_pile.one_plant.name,Betweenstone Pebble Pile,交错卵石堆
+525,tile.thebetweenlands.betweenstone_pebble_pile.two_plant.name,Betweenstone Pebble Pile,交错卵石堆
+526,tile.thebetweenlands.betweenstone_pebble_pile.three_plant.name,Betweenstone Pebble Pile,交错卵石堆
+527,tile.thebetweenlands.betweenstone_pebble_pile.four_plant.name,Betweenstone Pebble Pile,交错卵石堆
+528,tile.thebetweenlands.betweenstone_pebble_pile_water.one.name,Betweenstone Pebble Pile Water,含水交错卵石堆
+529,tile.thebetweenlands.betweenstone_pebble_pile_water.two.name,Betweenstone Pebble Pile Water,含水交错卵石堆
+530,tile.thebetweenlands.betweenstone_pebble_pile_water.three.name,Betweenstone Pebble Pile Water,含水交错卵石堆
+531,tile.thebetweenlands.betweenstone_pebble_pile_water.four.name,Betweenstone Pebble Pile Water,含水交错卵石堆
+532,tile.thebetweenlands.betweenstone_pebble_pile_water.one_plant.name,Betweenstone Pebble Pile Water,含水交错卵石堆
+533,tile.thebetweenlands.betweenstone_pebble_pile_water.two_plant.name,Betweenstone Pebble Pile Water,含水交错卵石堆
+534,tile.thebetweenlands.betweenstone_pebble_pile_water.three_plant.name,Betweenstone Pebble Pile Water,含水交错卵石堆
+535,tile.thebetweenlands.betweenstone_pebble_pile_water.four_plant.name,Betweenstone Pebble Pile Water,含水交错卵石堆
+536,tile.thebetweenlands.barnacle_1_2.name,Barnacle Cluster,藤壶簇
+537,tile.thebetweenlands.barnacle_3_4.name,Barnacle Cluster,藤壶簇
+538,tile.thebetweenlands.glowing_goop.name,Glowing Goop,发光黏液
+539,tile.thebetweenlands.reed_mat.name,Reed Mat,芦苇垫
+540,tile.thebetweenlands.mud_loot_pot.1.name,Mud Pot of Chance,陷入泥巴的机运之壶
+541,tile.thebetweenlands.mud_loot_pot.2.name,Mud Pot of Chance,陷入泥巴的机运之壶
+542,tile.thebetweenlands.mud_loot_pot.3.name,Mud Pot of Chance,陷入泥巴的机运之壶
+543,tile.thebetweenlands.lyestone.name,Lyestone,石灰石
+544,tile.thebetweenlands.mist_bridge.name,Mist Bridge,雾桥
+545,tile.thebetweenlands.shadow_walker.name,Shadow Walker,影隧
+546,tile.thebetweenlands.weak_smooth_cragrock.name,Weak Smooth Cragrock,脆弱的平滑峭壁岩
+548,tile.thebetweenlands.weedwood_planks_treated.name,Treated Weedwood Planks,防腐杂草木木板
+549,tile.thebetweenlands.weedwood_plank_stairs_treated.name,Treated Weedwood Plank Stairs,防腐杂草木木板楼梯
+550,tile.thebetweenlands.weedwood_plank_slab_treated.name,Treated Weedwood Plank Slab,防腐杂草木木板台阶
+551,tile.thebetweenlands.weedwood_plank_fence_treated.name,Treated Weedwood Plank Fence,防腐杂草木木板栅栏
+552,tile.thebetweenlands.weedwood_plank_fence_gate_treated.name,Treated Weedwood Plank Fence Gate,防腐杂草木木板栅栏门
+554,tile.thebetweenlands.rubber_tree_planks_treated.name,Treated Rubber Tree Planks,防腐橡胶树木板
+555,tile.thebetweenlands.rubber_tree_plank_stairs_treated.name,Treated Rubber Tree Plank Stairs,防腐橡胶树木板楼梯
+556,tile.thebetweenlands.rubber_tree_plank_slab_treated.name,Treated Rubber Tree Plank Slab,防腐橡胶树木板台阶
+557,tile.thebetweenlands.rubber_tree_plank_fence_treated.name,Treated Rubber Tree Plank Fence,防腐橡胶树木板栅栏
+558,tile.thebetweenlands.rubber_tree_plank_fence_gate_treated.name,Treated Rubber Tree Plank Fence Gate,防腐橡胶树木板栅栏门
+560,tile.thebetweenlands.giant_root_planks_treated.name,Treated Giant Root Planks,防腐巨型树根木板
+561,tile.thebetweenlands.giant_root_plank_stairs_treated.name,Treated Giant Root Plank Stairs,防腐巨型树根木板楼梯
+562,tile.thebetweenlands.giant_root_plank_slab_treated.name,Treated Giant Root Plank Slab,防腐巨型树根木板台阶
+563,tile.thebetweenlands.giant_root_plank_fence_treated.name,Treated Giant Root Plank Fence,防腐巨型树根木板栅栏
+564,tile.thebetweenlands.giant_root_plank_fence_gate_treated.name,Treated Giant Root Plank Fence Gate,防腐巨型树根木板栅栏门
+566,tile.thebetweenlands.hearthgrove_planks_treated.name,Treated Hearthgrove Planks,防腐炉树木板
+567,tile.thebetweenlands.hearthgrove_plank_stairs_treated.name,Treated Hearthgrove Plank Stairs,防腐炉树木板楼梯
+568,tile.thebetweenlands.hearthgrove_plank_slab_treated.name,Treated Hearthgrove Plank Slab,防腐炉树木板台阶
+569,tile.thebetweenlands.hearthgrove_plank_fence_treated.name,Treated Hearthgrove Plank Fence,防腐炉树木板栅栏
+570,tile.thebetweenlands.hearthgrove_plank_fence_gate_treated.name,Treated Hearthgrove Plank Fence Gate,防腐炉树木板栅栏门
+572,tile.thebetweenlands.nibbletwig_planks_treated.name,Treated Nibbletwig Planks,防腐奇趣枝木板
+573,tile.thebetweenlands.nibbletwig_plank_stairs_treated.name,Treated Nibbletwig Plank Stairs,防腐奇趣枝木板楼梯
+574,tile.thebetweenlands.nibbletwig_plank_slab_treated.name,Treated Nibbletwig Plank Slab,防腐奇趣枝木板台阶
+575,tile.thebetweenlands.nibbletwig_plank_fence_treated.name,Treated Nibbletwig Plank Fence,防腐奇趣枝木板栅栏
+576,tile.thebetweenlands.nibbletwig_plank_fence_gate_treated.name,Treated Nibbletwig Plank Fence Gate,防腐奇趣枝木板栅栏门
+578,tile.thebetweenlands.rotten_planks_treated.name,Treated Rotten Planks,防腐腐朽木板
+579,tile.thebetweenlands.rotten_plank_stairs_treated.name,Treated Rotten Plank Stairs,防腐腐朽木板楼梯
+580,tile.thebetweenlands.rotten_plank_slab_treated.name,Treated Rotten Plank Slab,防腐腐朽木板台阶
+581,tile.thebetweenlands.rotten_plank_fence_treated.name,Treated Rotten Plank Fence,防腐腐朽木板栅栏
+582,tile.thebetweenlands.rotten_plank_fence_gate_treated.name,Treated Rotten Plank Fence Gate,防腐腐朽木板栅栏门
+586,tile.thebetweenlands.steeping_pot.name,Steeping Pot,浸泡锅
+587,tile.thebetweenlands.grub_hub.name,Grub Hub,育虫坞
+588,tile.thebetweenlands.water_filter.name,Water Filter,滤水器
+589,tile.thebetweenlands.moth_house.name,Moth House,化蛾屋
+590,tile.thebetweenlands.filtered_silt_glass_jar.name,Filtered Silt Glass Jar,澄净淤泥玻璃罐
+591,tile.thebetweenlands.ancient_remnant_block.name,Ancient Remnant Block,远古遗碎块
+592,tile.thebetweenlands.lattice.name,Lattice,格栅
+593,tile.thebetweenlands.lattice_fine.name,Fine Lattice,精细格栅
+646,item.thebetweenlands.deep_water_theme.name,Deep Water,深水唱片
+726,item.thebetweenlands.ground_betweenstone_pebble.name,Ground Betweenstone Pebble,磨碎的交错卵石
+866,item.thebetweenlands.rotten_plank_door_item.name,Rotten Plank Door,腐朽木板门
+867,item.thebetweenlands.weedwood_door_treated_item.name,Treated Weedwood Door,防腐杂草木木板门
+868,item.thebetweenlands.rubber_tree_plank_door_treated_item.name,Treated Rubber Tree Plank Door,防腐橡胶树木板门
+869,item.thebetweenlands.giant_root_plank_door_treated_item.name,Treated Giant Root Plank Door,防腐巨型树根木板门
+870,item.thebetweenlands.hearthgrove_plank_door_treated_item.name,Treated Hearthgrove Plank Door,防腐炉树木板门
+871,item.thebetweenlands.nibbletwig_plank_door_treated_item.name,Treated Nibbletwig Plank Door,防腐奇趣枝木板门
+872,item.thebetweenlands.rotten_plank_door_treated_item.name,Treated Rotten Plank Door,防腐腐朽木板门
+1006,item.thebetweenlands.amphibious_boots.name,Amphibious Boots,两栖靴子
+1007,item.thebetweenlands.amphibious_chestplate.name,Amphibious Chestplate,两栖胸甲
+1008,item.thebetweenlands.amphibious_helmet.name,Amphibious Helmet,两栖头盔
+1009,item.thebetweenlands.amphibious_leggings.name,Amphibious Leggings,两栖护腿
+1010,item.thebetweenlands.fish_bait.name,Fish Bait,鱼饵
+1011,item.thebetweenlands.fishing_spear.name,Fishing Spear,捕鱼矛
+1012,item.thebetweenlands.fishing_spear_amphibious.name,Amphibious Fishing Spear,两栖捕鱼矛
+1013,item.thebetweenlands.fishing_spear_amphibious_robust.name,Robust Amphibious Fishing Spear,耐用的两栖捕鱼矛
+1014,item.thebetweenlands.weedwood_fishing_rod.name,Weedwood Fishing Rod,杂草木钓鱼竿
+1015,item.thebetweenlands.fishing_float.name,Fishing Float and Hook,鱼漂和钓钩
+1016,item.thebetweenlands.snot_pod.name,Rocksnot Pod,岩涕蚌荚
+1017,item.thebetweenlands.snot.name,Snot,岩涕
+1018,item.thebetweenlands.rock_snot_pearl.name,Rocksnot Pearl,岩涕珍珠
+1019,item.thebetweenlands.pearled_pear.name,Pearled Pear,珍珠梨
+1020,item.thebetweenlands.anadia_swim_bladder.name,Anadia Swim Bladder,阿纳迭鱼鳔
+1021,item.thebetweenlands.anadia_eye.name,Anadia Eye,阿纳迭鱼眼
+1022,item.thebetweenlands.anadia_gills.name,Anadia Gills,阿纳迭鱼鳃
+1023,item.thebetweenlands.anadia_scales.name,Anadia Scales,阿纳迭鱼鳞
+1024,item.thebetweenlands.anadia_bones.name,Anadia Bones,阿纳迭鱼骨
+1025,item.thebetweenlands.anadia_remains.name,Anadia Remains,阿纳迭鱼骸
+1026,item.thebetweenlands.anadia_fins.name,Anadia Fins,阿纳迭鱼鳍
+1027,item.thebetweenlands.anadia_meat_raw.name,Raw Anadia Meat,生阿纳迭鱼肉
+1028,item.thebetweenlands.anadia_meat_cooked.name,Cooked Anadia Meat,熟阿纳迭鱼肉
+1029,item.thebetweenlands.anadia_meat_smoked.name,Smoked Anadia Meat,烟熏阿纳迭鱼肉
+1030,item.thebetweenlands.urchin_spike.name,Urchin Spike,海胆尖刺
+1031,item.thebetweenlands.fumigant.name,Fumigant,熏蒸剂
+1032,item.thebetweenlands.bl_name_tag.name,Amate Name Tag,树皮纸命名牌
+1033,item.thebetweenlands.barnacle_larvae.name,Barnacle Larvae,藤壶幼虫
+1034,item.thebetweenlands.barnacle.name,Barnacle Flesh,藤壶肉
+1035,item.thebetweenlands.barnacle_cooked.name,Cooked Barnacle Flesh,熟藤壶肉
+1036,item.thebetweenlands.barnacle_smoked.name,Smoked Barnacle Flesh,烟熏藤壶肉
+1037,item.thebetweenlands.crab_stick_smoked.name,Smoked Crabstick,烟熏蟹肉棒
+1038,item.thebetweenlands.frog_legs_smoked.name,Smoked Frog's Leg,烟熏蛙腿
+1039,item.thebetweenlands.puffshroom_tendril_smoked.name,Smoked Puffshroom Tendril,烟熏喷射蘑菇卷须
+1040,item.thebetweenlands.silt_crab_claw_smoked.name,Smoked Crab Claw,烟熏蟹钳
+1041,item.thebetweenlands.snail_flesh_smoked.name,Smoked Snail Flesh,烟熏蜗牛肉
+1042,item.thebetweenlands.aa_upgrade_electric.name,Electric Upgrade,电气升级
+1043,item.thebetweenlands.aa_upgrade_glide.name,Glide Upgrade,滑翔升级
+1044,item.thebetweenlands.aa_upgrade_leap.name,Ascent Upgrade,浮跃升级
+1045,item.thebetweenlands.aa_upgrade_urchin.name,Urchin Spike Upgrade,尖刺升级
+1046,item.thebetweenlands.aa_upgrade_vortex.name,Fish Vortex Upgrade,涡流升级
+1047,item.thebetweenlands.aa_upgrade_trigger.name,Biopathic Triggerstone,特质触发石
+1048,item.thebetweenlands.aa_upgrade_toggle.name,Biopathic Linkstone,特质链选石
+1049,item.thebetweenlands.mist_staff.name,Staff of the Mist Walker,云雾踏行之杖
+1050,item.thebetweenlands.shadow_staff.name,Staff of the Shadow Walker,暗影穿行之杖
+1051,item.thebetweenlands.olm_egg_raw.name,Olm Egg Cluster,洞螈蛋簇
+1052,item.thebetweenlands.olm_egg_cooked.name,Baked Olm Egg Cluster,熟洞螈蛋簇
+1053,item.thebetweenlands.olmlette_mixture.name,Olmlette Mixture,洞螈蛋糊
+1054,item.thebetweenlands.olmlette.name,Olmlette,洞螈蛋饼
+1055,item.thebetweenlands.pheromone_thorax.name,Pheromone Thorax,诱素虫胸
+1056,item.thebetweenlands.pheromone_thorax_clutch.name,Clutch of Pheromone Thoraxes,诱素虫胸堆
+1057,item.thebetweenlands.silk_grub.name,Silk Grub,结丝蛴虫
+1058,item.thebetweenlands.silk_grub_cocoon.name,Silk Grub Cocoon,虫丝茧
+1059,item.thebetweenlands.silk_thread.name,Silk Thread,虫丝线
+1060,item.thebetweenlands.silk_bundle.name,Silk Bundle,虫丝袋
+1061,item.thebetweenlands.silk_bundle_dirty.name,Dirty Silk Bundle,脏污虫丝袋
+1062,item.thebetweenlands.silk_mask.name,Silk Mask,虫丝面罩
+1063,item.thebetweenlands.silk_filter.name,Silk Mesh Strainer,虫丝滤网
+1064,item.thebetweenlands.moss_filter.name,Moss Mesh Strainer,苔藓滤网
+1065,item.thebetweenlands.silky_pebble.name,Silky Pebble,裹丝的愤怒卵石
+1074,item.thebetweenlands.drinkable_brew.nettle_soup.name,Nettle Soup,荨麻汤
+1075,item.thebetweenlands.drinkable_brew.nettle_tea.name,Nettle Tea,荨麻茶
+1076,item.thebetweenlands.drinkable_brew.pheromone_extract.name,Pheromone Extract,诱素精华
+1077,item.thebetweenlands.drinkable_brew.swamp_broth.name,Swamp Broth,沼泽肉汤
+1078,item.thebetweenlands.drinkable_brew.sturdy_stock.name,Sturdy Stock,强身高汤
+1079,item.thebetweenlands.drinkable_brew.pear_cordial.name,Pear Cordial,白梨甜浆
+1080,item.thebetweenlands.drinkable_brew.shamans_brew.name,Shaman's Brew,萨满泡饮
+1081,item.thebetweenlands.drinkable_brew.lake_broth.name,Lake Broth,湖泊肉汤
+1082,item.thebetweenlands.drinkable_brew.shell_stock.name,Shell Stock,贝壳高汤
+1083,item.thebetweenlands.drinkable_brew.frog_leg_extract.name,Frog Leg Extract,蛙腿精华
+1084,item.thebetweenlands.drinkable_brew.witch_tea.name,Witch Tea,女巫茶
+1115,fluid.clean_water,Clean Water,过滤水
+1116,fluid.fish_oil,Fish Oil,鱼油
+1122,fluid.drinkable_brew.nettle_soup,Nettle Soup,荨麻汤
+1123,fluid.drinkable_brew.nettle_tea,Nettle Tea,荨麻茶
+1124,fluid.drinkable_brew.pheromone_extract,Pheromone Extract,诱素精华
+1139,fluid.drinkable_brew.swamp_broth,Swamp Broth,沼泽肉汤
+1140,fluid.drinkable_brew.sturdy_stock,Sturdy Stock,强身高汤
+1141,fluid.drinkable_brew.pear_cordial,Pear Cordial,白梨甜浆
+1142,fluid.drinkable_brew.shamans_brew,Shaman's Brew,萨满泡饮
+1143,fluid.drinkable_brew.lake_broth,Lake Broth,湖泊肉汤
+1144,fluid.drinkable_brew.shell_stock,Shell Stock,贝壳高汤
+1145,fluid.drinkable_brew.frog_leg_extract,Frog Leg Extract,蛙腿精华
+1146,fluid.drinkable_brew.witch_tea,Witch Tea,女巫茶
+1177,container.bl.amphibious_armour,Amphibious Armour,两栖盔甲
+1178,container.bl.crab_pot_filter,Crab Pot Filter,蟹笼过滤器
+1179,container.bl.silk_bundle,Silk Bundle,虫丝袋
+1203,location.underwater_ruins.name,80:Underwater Ruins,80:水下废墟
+1241,tooltip.bl.tool.broken_rod,\n%s is broken\nand needs a new line and float.\n,\n%s损坏了\n需要一个新的鱼漂和钓钩。
+1256,tooltip.bl.aspectvial.freiwynn,Can be used to turn item frames invisible,可以用来切换物品展示框是否可见
+1293,tooltip.bl.rock_snot_pearl,Grants 10 experience when consumed,食用时获得 10 经验
+1294,tooltip.bl.pearled_pear,Grants 80 experience when consumed,食用时获得 80 经验
+1295,tooltip.bl.damaged_armor_upgrade,Damaged Amphibious Armor Upgrade (%d/%d).,损坏的两栖盔甲升级（%d/%d）。
+1296,tooltip.bl.crab_pot_item,Add Anadia Remains to tempt Crabs.\nCan be placed on top of a\nCrab Pot Filter for more uses.,添加阿纳迭鱼骸以吸引螃蟹。\n可以放置在一个\n蟹笼过滤器上来获得额外功能。
+1297,tooltip.bl.crab_pot_filter_item,"Used with a Crab Pot.\nCrab Pots placed above,\ncontaining Silt or Bubbler Crabs,\nprovide extra functions.",与蟹笼搭配使用。\n蟹笼置于上方，\n含有泥蟹或泡蟹时\n将提供额外的功能。
+1298,tooltip.bl.silt_glass_jar_item,Storage for Tiny Sludge Worms.\nUsing a Weedwood Fishing Rod on the jar\nadds a worm to the rod.,储存微型污泥蠕虫。\n对罐子使用杂草木钓鱼竿时\n将为钓鱼竿钩上鱼饵。
+1300,tooltip.bl.fish_bait_jei,Secondary items modify attributes. Use the tooltips when crafting to see.,在合成时于提示框中显示物品次要修饰属性。
+1303,tooltip.bl.item_mob_anadia.health,Health: %s / %s,血量：%s / %s
+1304,tooltip.bl.item_mob_anadia.size,Size: %s,尺寸：%s
+1305,tooltip.bl.item_mob_anadia.speed,Speed: %s,速度：%s
+1306,tooltip.bl.item_mob_anadia.strength,Strength: %s,力量：%s
+1307,tooltip.bl.item_mob_anadia.stamina,Stamina: %s,耐力：%s
+1309,tooltip.bl.item_mob_anadia.status,Status:,状态：
+1310,tooltip.bl.item_mob_anadia.rotting_1,Freshly Caught,刚刚捕获
+1311,tooltip.bl.item_mob_anadia.rotting_2,Recently Caught,最近捕获
+1312,tooltip.bl.item_mob_anadia.rotting_3,Starting to Ripen,不太新鲜
+1313,tooltip.bl.item_mob_anadia.rotting_4,Getting Smelly,开始发臭
+1314,tooltip.bl.item_mob_anadia.rotting_5,Getting Really Stinky,变得很臭
+1315,tooltip.bl.item_mob_anadia.rotten,Rotten,腐烂
+1316,tooltip.bl.item_mob_anadia.smoked,Smoked,烟熏
+1361,tooltip.bl.censer.effect.fumigant,Removes the stench of rot in a large area.,大范围去除恶臭味。
+1386,tooltip.bl.recipes.offering_table,Offering Table,供桌
+1387,tooltip.bl.recipes.water_filter,Water Filter,滤水器
+1388,tooltip.bl.recipes.steeping_pot,Steeping Pot,浸泡锅
+1389,tooltip.bl.recipes.silk_bundle,Silk Bundle,虫丝袋
+1391,tooltip.bl.fish_bait.saturation,Saturation: %s,饱和度：%s
+1392,tooltip.bl.fish_bait.sink_speed,Sinking Speed: %s,下沉速度：%s
+1393,tooltip.bl.fish_bait.dissolve_time,Dissolve Time: %s,溶解时间：%s
+1394,tooltip.bl.fish_bait.range,Range: %s,溶解范围：%s
+1395,tooltip.bl.fish_bait.glowing,Glowing: %s,是否发光：%s
+1397,tooltip.bl.fishing_rod.baited,Has Worm: %s,是否有饵：%s
+1399,tooltip.bl.fumigant,Removes the Stench of Rot on a Player,去除玩家身上的恶臭味
+1400,tooltip.bl.fishing_spear_animated,Animated:,活化的：
+1402,tooltip.bl.item_misc.snot,Seems to barely have drag in water.,似乎在水中没有阻力。
+1403,tooltip.bl.item_misc.anadia_eye,Made for aquatic sight.,专为水下视野而生。
+1404,tooltip.bl.item_misc.anadia_gills,Fish don't hold their breath.,鱼便无需屏气潜水。
+1405,tooltip.bl.item_misc.anadia_scales,Forms a protective layer.,在皮肤外的保护层。
+1406,tooltip.bl.item_misc.anadia_bones,"Thin, but resilient.",薄且有弹性。
+1407,tooltip.bl.item_misc.anadia_fins,They glide through the water like wings through air.,鱼翔浅底正如鹰击长空。
+1408,tooltip.bl.item_misc.anadia_swim_bladder,Keeps the fish from sinking... and floating.,主宰鱼的沉浮。
+1409,tooltip.bl.item_misc.urchin_spike,Offense as defense.,进攻是最好的防御。
+1410,tooltip.bl.item_misc.lurker_skin,Tough and grounded.,坚韧且耐磨。
+1411,tooltip.bl.item.glowing_goop,Fish can't hide forever.,鱼儿逃不出你的目光。
+1412,tooltip.bl.item.sap_spit,Keeps decay at bay.,防止残蚀。
+1414,tooltip.bl.amphibious_upgrade.format,Amphibious %s,两栖%s
+1415,tooltip.bl.amphibious_upgrade.helmet,Helmet,头盔
+1416,tooltip.bl.amphibious_upgrade.chestplate,Chestplate,胸甲
+1417,tooltip.bl.amphibious_upgrade.leggings,Leggings,护腿
+1418,tooltip.bl.amphibious_upgrade.boots,Boots,靴子
+1419,tooltip.bl.amphibious_ability.toggle,Toggles Amphibious Armour Ability Upgrade\nSneak + Right Click to Scroll\nRight Click to Toggle,切换两栖盔甲能力升级\n潜行 + 右击滚动选择\n右击切换状态
+1420,tooltip.bl.amphibious_ability.trigger,Activates Amphibious Armour Ability Upgrade\nSneak + Right Click to Scroll\nRight Click to Activate,激活两栖盔甲能力升级\n潜行 + 右击滚动选择\n右击激活
+1421,tooltip.bl.fish_trimming_table,Uses a bone axe to chop caught fish and crabs.,使用粘骨斧处理捕到的水产品。
+1531,chat.bone_wayfinder.sky_obstructed,Sky is obstructed,天空被遮挡
+1561,chat.aa_trigger.selected_effect,Attuned to: %s,调整到：%s效果
+1563,chat.aa_item.ascent,Ascent,浮跃
+1564,chat.aa_item.electric,Electric,电气
+1565,chat.aa_item.vortex,Vortex,涡流
+1566,chat.aa_item.glide,Glide,滑翔
+1567,chat.aa_item.urchin_spikes,Urchin Spikes,胆刺
+1569,chat.aa_toggle.selected_effect,Selected Effect: %s,选定效果：%s
+1570,chat.aa_toggle.urchin_active,Urchin Active: %s,激活胆刺：%s
+1571,chat.aa_toggle.vortex_active,Vortex Active: %s,激活涡流：%s
+1572,chat.aa_toggle.electric_active,Electric Active: %s,激活电气：%s
+1573,chat.aa_toggle.glide_active,Glide Active: %s,激活滑翔：%s
+1574,chat.aa_toggle.ascent_active,Ascent Active: %s,激活浮跃：%s
+1576,chat.aa_upgrade_broke,Armor Upgrade %s broke.,盔甲%s升级套件已损坏。
+1639,bl.effect.shocked,Shocked,雷震
+1666,entity.thebetweenlands.olm.name,Olm,洞螈
+1748,entity.thebetweenlands.anadia.name,Anadia,阿纳迭鱼
+1749,entity.thebetweenlands.fish_bait_item.name,Fish Bait,鱼饵
+1750,entity.thebetweenlands.betweenlands_fish_hook.name,Fishing Hook,钓钩
+1751,entity.thebetweenlands.fishing_spear.name,Fishing Spear,捕鱼矛
+1752,entity.thebetweenlands.fishing_tackle_box_seat.name,Fishing Seat,钓鱼凳
+1753,entity.thebetweenlands.rock_snot.name,Rock Snot,岩涕蚌
+1754,entity.thebetweenlands.rock_snot_tendril.name,Rock Snot Tendril,岩涕触须
+1755,entity.thebetweenlands.jellyfish.name,Jellyfish,水母
+1756,entity.thebetweenlands.jellyfish_cave.name,Cave Jellyfish,洞穴水母
+1757,entity.thebetweenlands.bubbler_crab.name,Bubbler Crab,泡蟹
+1758,entity.thebetweenlands.bubbler_crab_bubble.name,Bubbler Crab Bubble,洞穴泡蟹
+1759,entity.thebetweenlands.freshwater_urchin.name,Freshwater Urchin,淡水海胆
+1760,entity.thebetweenlands.greebling_coracle.name,Greebling Coracle,哥布灵划手
+1761,entity.thebetweenlands.cave_fish.name,Cave Fish,洞穴鱼
+1762,entity.thebetweenlands.glowing_goop.name,Glowing Goop,发光黏液
+1763,entity.thebetweenlands.item_frame.name,Item Frame,物品展示框
+1764,entity.thebetweenlands.silky_pebble.name,Silky Pebble,裹丝的愤怒卵石
+1767,entity.thebetweenlands.anadia_body_0,Skittish,灵动体
+1768,entity.thebetweenlands.anadia_body_1,Stubby,肥短体
+1769,entity.thebetweenlands.anadia_body_2,Slender,纤细体
+1771,entity.thebetweenlands.anadia_tail_0,Cliptail,剪叉尾
+1772,entity.thebetweenlands.anadia_tail_1,Fantail,扇形尾
+1773,entity.thebetweenlands.anadia_tail_2,Longtail,长摆尾
+1775,entity.thebetweenlands.anadia_head_0,Grazer,草食首
+1776,entity.thebetweenlands.anadia_head_1,Thumphead,厚重首
+1777,entity.thebetweenlands.anadia_head_2,Prowler,潜游首
+1828,jei.thebetweenlands.recipe.smoking_rack,Smoking Rack,烟熏架
+1829,jei.thebetweenlands.recipe.crab_pot_filter_bubbler,Crab Pot Filter (Bubbler Crab),蟹笼过滤器（泡蟹）
+1830,jei.thebetweenlands.recipe.crab_pot_filter_silt,Crab Pot Filter (Silt Crab),蟹笼过滤器（泥蟹）
+1839,jei.thebetweenlands.recipe.steeping_pot,Steeping Pot,浸泡锅
+2049,gui.bl.fish_trimming_table.butcher,Chop!,剁！
+2052,tooltip.thebetweenlands.barnacle_stage_1.name,Barnacle Cluster (Newly Established),藤壶簇（初生期）
+2053,tooltip.thebetweenlands.barnacle_stage_2.name,Barnacle Cluster (Early Development),藤壶簇（发育期）
+2054,tooltip.thebetweenlands.barnacle_stage_3.name,Barnacle Cluster (Starting to Mature),藤壶簇（生长期）
+2055,tooltip.thebetweenlands.barnacle_stage_4.name,Barnacle Cluster (Ready to Harvest),藤壶簇（收获期）
+2113,advancements.thebetweenlands.adventurer.shake_it_off.title,Shake It Off,摆脱它
+2114,advancements.thebetweenlands.adventurer.shake_it_off.description,Get overrun by an Infestation,被蚀虫淹没
+2115,advancements.thebetweenlands.adventurer.vinyl_enthusiast.title,The Vinyl Countdown,黑胶倒计时
+2116,advancements.thebetweenlands.adventurer.vinyl_enthusiast.description,Collect all Betweenlands music discs,收集所有的交错次元音乐唱片
+2117,advancements.thebetweenlands.adventurer.i_think_you_urned_this.title,I Think You've Urned This,我想你刚刚翻过这个了
+2118,advancements.thebetweenlands.adventurer.i_think_you_urned_this.description,Loot 20 Alcove Urns,搜刮20个壁龛
+2163,advancements.thebetweenlands.fighter.banshees_in_the_barriers.title,Banshees in the Barriers,屏障中的怪兽
+2164,advancements.thebetweenlands.fighter.banshees_in_the_barriers.description,Defeat a Barrishee,击败一只壁窟魔怪
+2189,advancements.thebetweenlands.farmer.fertile_soil.title,Fertile Soil,肥沃的土壤
+2190,advancements.thebetweenlands.farmer.fertile_soil.description,Dig up a worm while making holes for crops,在为作物挖洞的同时挖出一条虫子
+2191,advancements.thebetweenlands.farmer.bountiful_barnacles.title,Bountiful Barnacles,丰富的藤壶
+2192,advancements.thebetweenlands.farmer.bountiful_barnacles.description,Harvest and replace a cluster of Barnacles,收获并“补种”一簇藤壶
+2193,advancements.thebetweenlands.farmer.premium_produce.title,Premium Produce,昂贵特产
+2194,advancements.thebetweenlands.farmer.premium_produce.description,Craft and consume a Pearled Pear,合成并吃下一个珍珠梨
+2195,advancements.thebetweenlands.farmer.your_bush_smells.title,Your Bush Smells,属于你的灌木丛气息
+2196,advancements.thebetweenlands.farmer.your_bush_smells.description,Infuse a Weedwood Bush using a Pheromone Thorax,对一个杂草木灌木使用一次诱素虫胸
+2197,advancements.thebetweenlands.farmer.moving_day.title,Moving Day,搬家之日
+2198,advancements.thebetweenlands.farmer.moving_day.description,Put Silk Grubs in a Moth House to produce Silk,将结丝蛴虫放在化蛾屋中结茧
+2199,advancements.thebetweenlands.farmer.multicore_threading.title,Multicore Threading,多“线”程
+2200,advancements.thebetweenlands.farmer.multicore_threading.description,Use lanterns to boost a Moth House's production speed,使用灯笼提高化蛾屋的生产速度
+2201,advancements.thebetweenlands.farmer.grubhub_inc.title,Grubhub Inc.,饿虫么外卖
+2202,advancements.thebetweenlands.farmer.grubhub_inc.description,Awaken a Grub Hub using Pheromone Extract,用诱素精华灌注育虫坞
+2217,advancements.thebetweenlands.herbalist.steep_learning_curve.title,Steep Learning Curve,陡峭的学习曲线
+2218,advancements.thebetweenlands.herbalist.steep_learning_curve.description,Place a Steeping Pot,放置一个浸泡锅
+2219,advancements.thebetweenlands.herbalist.tea_bagging.title,Tea Bagging,茶包
+2220,advancements.thebetweenlands.herbalist.tea_bagging.description,Craft a Silk Bundle and steep some tea,制作虫丝袋并泡些“茶”
+2221,advancements.thebetweenlands.herbalist.home_remedy_extraordinaire.title,Home Remedy Extraordinaire,养生秘方
+2222,advancements.thebetweenlands.herbalist.home_remedy_extraordinaire.description,Steep all brews,浸泡所有配方
+2223,advancements.thebetweenlands.herbalist.you_cant_see_me.title,You Can't See Me,看不见我
+2224,advancements.thebetweenlands.herbalist.you_cant_see_me.description,Use the vision aspect to make an Item Frame invisible,在视觉层面使物品展示框隐形
+2251,advancements.thebetweenlands.survivalist.uh_oh_stinky.title,"Uh Oh, Stinky",呕哕，臭死了！
+2252,advancements.thebetweenlands.survivalist.uh_oh_stinky.description,Use a Fumigant to remove your stench,使用熏蒸剂去除臭味
+2253,advancements.thebetweenlands.survivalist.sacrifices_were_made.title,Sacrifices Were Made,蛋与饼不可兼得
+2254,advancements.thebetweenlands.survivalist.sacrifices_were_made.description,You can't make an Olmlette without breaking some eggs,打蛋而取蛋饼者也
+2269,advancements.thebetweenlands.craftsman.teach_a_man_to_fish.title,Teach a Man to Fish,授人以渔
+2270,advancements.thebetweenlands.craftsman.teach_a_man_to_fish.description,Craft a Weedwood Fishing Rod,制作杂草木钓鱼竿
+2271,advancements.thebetweenlands.craftsman.fishy_business.title,Fishy Business,腥味十足的生意
+2272,advancements.thebetweenlands.craftsman.fishy_business.description,Catch an Anadia using a Weedwood Fishing Rod,钓到一条阿纳迭鱼
+2273,advancements.thebetweenlands.craftsman.jar_o_worms.title,Jar O' Worms,罐中之饵
+2274,advancements.thebetweenlands.craftsman.jar_o_worms.description,Bait your rod from a Silt Glass Jar full of worms,利用装着蠕虫的淤泥玻璃罐给你的钓鱼竿上饵
+2275,advancements.thebetweenlands.craftsman.net_fish_and_chill.title,Net Fish and Chill,闲钓清风不钓鱼
+2276,advancements.thebetweenlands.craftsman.net_fish_and_chill.description,Sit back and relax on a Fishing Tackle Box,在钓具箱上坐下来放松一会
+2277,advancements.thebetweenlands.craftsman.fish_guts.title,Fish Guts,肝胆相剁
+2278,advancements.thebetweenlands.craftsman.fish_guts.description,Craft and use a Trimming Table,制作和使用剁鱼台
+2279,advancements.thebetweenlands.craftsman.authentic_flavor.title,Authentic Flavor,地道风味
+2280,advancements.thebetweenlands.craftsman.authentic_flavor.description,Use a Smoking Rack to smoke some food,使用烟熏架来烟熏一些食物
+2281,advancements.thebetweenlands.craftsman.its_a_trap.title,It's A Trap!,这是陷阱!
+2282,advancements.thebetweenlands.craftsman.its_a_trap.description,Obtain a Crab Pot and lure a crab into it,获得一个蟹笼并引诱一只螃蟹进去
+2283,advancements.thebetweenlands.craftsman.natures_purifier.title,Nature's Purifier,天然过滤器
+2284,advancements.thebetweenlands.craftsman.natures_purifier.description,Use a Crab Pot Filter to convert an item,使用蟹笼过滤器筛选物品
+2285,advancements.thebetweenlands.craftsman.aquaman.title,Aquaman,水行侠
+2286,advancements.thebetweenlands.craftsman.aquaman.description,Obtain a full suit of Amphibious armor,获得全套水陆盔甲
+2287,advancements.thebetweenlands.craftsman.percolation_station.title,Percolation Station,污水处理站
+2288,advancements.thebetweenlands.craftsman.percolation_station.description,Place a Water Filter and collect clean water,放置一个滤水器并收集一些过滤水
+2289,advancements.thebetweenlands.craftsman.omega_3s.title,Omega 3s,富含ω-3脂肪酸
+2290,advancements.thebetweenlands.craftsman.omega_3s.description,Use a Steeping Pot to obtain Fish Oil,使用浸泡锅获得鱼油
+2291,advancements.thebetweenlands.craftsman.ill_treat_you_right.title,I'll Treat You Right,精油护理
+2292,advancements.thebetweenlands.craftsman.ill_treat_you_right.description,Use Fish Oil to craft Treated Planks,使用鱼油制作防腐木板
+2293,advancements.thebetweenlands.craftsman.paint_job.title,Paint Job,油漆工
+2294,advancements.thebetweenlands.craftsman.paint_job.description,Use Dye to color a block,使用染料为方块上色
+2295,advancements.thebetweenlands.craftsman.let_it_shine.title,Let It Shine,萤火虫之梦
+2296,advancements.thebetweenlands.craftsman.let_it_shine.description,Use Glowing Goop on an Item Frame,在物品展示框上使用发光黏液
+2297,advancements.thebetweenlands.craftsman.dye_hard.title,Dye Hard,努力的染色家
+2298,advancements.thebetweenlands.craftsman.dye_hard.description,Create every dye color using a Steeping Pot,用浸泡锅创造每种染料颜色

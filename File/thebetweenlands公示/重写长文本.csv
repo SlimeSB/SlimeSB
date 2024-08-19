@@ -1,0 +1,45 @@
+行号,本地化键名,原文,原译文,现译文
+1210,tooltip.bl.chiromaw_wing.eat,Anything will taste better after eating this...,吃下这个，其他的食物都会更美味……,最难吃食物与之相比简直是珍馐，我再也不挑食了……
+1321,tooltip.bl.elixir.foggedMind.effect,"Clouds the mind with worrisome\nthoughts, causing one to see the illusion\nof a thick fog surrounding them.",忧愁扰乱了清晰的思维，\n迷雾遮挡了明亮的眼睛,忧愁扰乱了清晰的思维，\n迷雾遮挡了明亮的眼睛。
+1322,tooltip.bl.elixir.heavyweight.effect,"Gives a strange sense of\nheaviness, causing one to find\nswimming more difficult and causing\nthem to sink in Mud despite whatever\nthey may be wearing to protect them from it.",魔法成了行动的镣铐，\n无法挣脱水和污泥，\n其他魔力也无济于事,魔法变成了行动的镣铐，\n无法抵抗深陷水和污泥。
+1323,tooltip.bl.elixir.basilisk.effect,"Petrifies the motor cortex of the\nbrain, causing one to be frozen in place.",剧毒击穿了运动神经，\n微小的移动也难如登天,剧毒麻痹了脑运动皮层，\n轻微的移动也难如登天。
+1324,tooltip.bl.elixir.weakbow.effect,"Reduces archery skill, greatly\nlimiting one's bow shooting range.",足以毁掉一个优秀的射手，\n射击远处变得极其困难,足以毁掉优秀的弓箭手，\n射击远处变得极其困难。
+1325,tooltip.bl.elixir.blindman.effect,"Severely limits the function of\nthe eye, causing one to only\nbe able to see a small distance in\nfront of them and be unable to sprint.",夜幕笼罩了眼睛，\n不能奔跑的人\n在黑暗中缓步挪行,漆黑的夜幕笼罩了双眼，\n艰难奔跑在盲目中挣扎。
+1326,tooltip.bl.elixir.slugarm.effect,"Makes the arms feel numb, decreasing\none's arm swinging speed and thus causing\nthem to mine slower and strike foes less easily.",勇士的双臂变得无力，\n挥剑和挖掘成了难事,勇敢者的双臂变得无力，\n挥剑和挖掘也十分困难。
+1327,tooltip.bl.elixir.stenching.effect,"Causes the emission of a very potent\nodor that is desired by monsters, making\nit easier for one to be detected by predators.",腐臭味出卖潜伏的人，\n尾随其后的是一切天敌,恶臭不断指示你的位置，\n饥饿的怪物正悄然尾随。
+1328,tooltip.bl.elixir.drunkard.effect,Causes one to experience a heavy\nbout of nausea.,翻江倒海的混沌摇晃视野，\n就像经历了剧烈的反胃,翻腾的混沌感摇晃视野，\n就像经历了剧烈的反胃。
+1329,tooltip.bl.elixir.starvation.effect,"Makes the stomach digest food faster\nand less efficiently, causing one to\ngo hungry more quickly.",肠胃成了难填的深沟，\n饥饿将更快找上门来,肠胃空虚成难填的深沟，\n饥饿将更快地找上门来。
+1330,tooltip.bl.elixir.poisonsting.effect,"Contains the wrath of the sinister\nplants found in the Betweenlands, poisoning\none instantly.",自然的震怒浓缩其中，\n触碰的人将立即中毒,大自然的怨恨浓缩其中，\n触碰者将立受剧毒折磨。
+1331,tooltip.bl.elixir.decay.effect,"Increases vulnerability to the decaying\naura of the Betweenlands, causing one to\nexperience a quicker decline in physical\nand psychological health.",击碎可怜的免疫力，\n瘴气将人迅速残蚀,击碎你那可怜的免疫力，\n沼域瘴气更快将你残蚀。
+1332,tooltip.bl.elixir.draining.effect,Drains one's health over time.,躯体遭受腐化，\n生命时刻凋零,身躯遭受全方位的侵蚀，\n鲜活生命已达凋萎时刻。
+1333,tooltip.bl.elixir.lumbering.effect,"Makes the muscles lethargic, reducing\none's movement speed.",强烈的疲劳禁锢了肌肉，\n严重降低了行动的速度,强烈的疲劳禁锢了肌肉，\n严重降低你行动的灵巧。
+1334,tooltip.bl.elixir.unclouded.effect,"Clears a foggy mind, allowing one to\nsee through dense fog as if it evaporated\nin front of their eyes.",混沌的思想即刻清晰，\n眼前的迷雾一扫而空,混沌的思想在此刻清晰，\n朦胧的迷雾于眼中清空。
+1335,tooltip.bl.elixir.lightweight.effect,"Causes a strange sensation of\nweightlessness, allowing one to walk slowly\nover water as if it were solid ground.",飘飘欲仙足下生风，\n漫步水面如履平地,飘飘欲仙宛似脚下生风，\n漫步水面如同行走平地。
+1336,tooltip.bl.elixir.spiderbreed.effect,"Changes the workings of the skin and\nmuscle, allowing one to climb up and down\nany obstacle as if they were an insect.",攀爬峭壁十分轻松，\n因为领悟了蜘蛛的奥秘,攀爬天堑绝壁十分轻松，\n因为领悟了蜘蛛的奥秘。
+1337,tooltip.bl.elixir.sagittarius.effect,"Contains the power of Sagittarius, allowing\none to see exactly what path their arrow will\ntake when fired from a bow.",你要预见你射箭的轨迹， \n在你射杀仇敌之前,你将预见你射箭的轨迹，\n在你射杀眼前仇敌之前。
+1338,tooltip.bl.elixir.catsEyes.effect,"Makes the eyes extremely sensitive to\nlight, allowing one to see very well in\nthe dark.",双眼对微光也极为敏感，\n黑暗中视野如猫儿般清晰,双眼对微光也极为敏感，\n黑暗中视野如猫般清晰。
+1339,tooltip.bl.elixir.swiftarm.effect,"Enables arm muscles to work to their\nfullest, increasing one's arm swinging speed\nand thus allowing them to mine faster, pull\nback bows more rapidly, and strike foes\nmore easily.",双臂的肌肉极速运转，\n拉弓、挖掘和挥剑 \n更加迅猛有力,双臂的肌肉全动力运转，\n拉弓挥臂更加迅猛有力。
+1340,tooltip.bl.elixir.masking.effect,"Masks natural odors like a perfume, making\nit harder for one to be detected by predators.",植物的芬芳掩蔽了你，\n仇敌的嗅觉暂时失灵,自然芬芳掩蔽你的气味，\n仇敌的嗅觉会暂时失灵。
+1341,tooltip.bl.elixir.huntersSense.effect,"Enhances the senses, allowing one to\nsee and smell the scent trails of creatures in\norder to track them down.",你敏锐地察觉生物的踪迹，\n以便更好的追踪它们,你能察觉到生物的行迹，\n以便你更好的追踪它们。
+1342,tooltip.bl.elixir.feasting.effect,"Gives the stomach something tough\nto feed on, satisfying one's hunger over time.",生命力滋润你的肠胃，\n使你长时间感到饱足,生命能量滋润你的肠胃，\n使你长时间怀有饱腹感。
+1343,tooltip.bl.elixir.toughskin.effect,"Increases skin toughness, protecting one\nfrom harmful plants found throughout the\nBetweenlands.",皮肤坚固如上釉的瓷器，\n足以抵抗荨麻、毒藤与荆棘,皮肤坚固如上釉的瓷器，\n足以抵抗荆棘荨麻毒藤。
+1344,tooltip.bl.elixir.ripening.effect,"Reverses the effects of the decaying aura\nof the Betweenlands, restoring one's physical\nand psychological health over time.",抵抗沼泽腐蚀的瘴气，\n你受的腐蚀被慢慢治愈,抵抗沼域间的残蚀瘴气，\n所受的残蚀被慢慢治愈。
+1345,tooltip.bl.elixir.healing.effect,"Accelerates natural regeneration, healing one's\nwounds over time.",加速身体恢复的能力，\n伤口不断得到治疗,加强人体的自恢复能力，\n身上伤口不断得到治疗。
+1346,tooltip.bl.elixir.nimblefeet.effect,"Enhances muscle swiftness and nimbleness,\nincreasing one's movement speed.",增强腿脚的肌肉，\n使你行动更敏捷,增强双腿中发力的肌肉，\n你的行动变得更为敏捷。
+1347,tooltip.bl.elixir.weakness.effect,"Weakens the muscles, reducing one's\ndamage output when they attack.",弱化持剑的手腕，\n降低攻击的伤害,弱化你握持武器的手腕，\n降低你攻击造成的伤害。
+1348,tooltip.bl.elixir.strength.effect,"Increases raw physical strength, causing\none to deal more damage when they attack.",增强身体的力量，\n提高攻击的伤害,增强你体内蕴含的力量，\n你攻击的伤害得到提高。
+1428,chat.foodSickness.fine.3,"Finally, something that isn't just brown slime",比棕色粘液球好那么一点。,比棕色黏液球好那么一点。
+1430,chat.foodSickness.fine.5,Well at least it doesn't taste like mud,至少比土好吃一点。,至少吃起来不像泥巴。
+1436,chat.foodSickness.fine.11,"At last, I was getting sick of that other stuff",我迟早有一天要吐掉这个东西。,我除了这玩意再也不想吃别的了。
+1439,chat.foodSickness.fine.14,That tasted good,这个可还行。,还挺好吃的。
+1440,chat.foodSickness.fine.15,"Tastes alright, hopefully it's not poisonous",又能吃，又没有毒的东西，我已经很满意了。,尝起来不错，希望它没有毒。
+1446,chat.foodSickness.half.5,Hopefully there is more food around here,给我来点别的吃的吧！求你了！,真希望我还有别的能吃的东西！
+1449,chat.foodSickness.half.8,"I'm feeling a bit off, maybe I should find another food source",我觉得恶心得很；我需要别的食物来源。,我觉得恶心得很，我需要别的食物来源。
+1461,chat.foodSickness.sick.4,"I'm sick of eating this, I need to find something else",看见这个我就恶心！求你找点别的食物！,看见这个我就恶心！我得找点别的食物！
+1462,chat.foodSickness.sick.5,I'm not putting that anywhere near my mouth,有本事你把这个东西塞进我嘴里！,我不可能把它塞进嘴的！
+1464,chat.foodSickness.sick.7,"I don't think I can face any more of that, I'll have to find something else",我看都不想看；我必须去找别的东西吃了。,我看都不想看，我必须去找别的东西吃了。
+1468,chat.foodSickness.sick.11,I think I'll need a rest before I eat more of that,吃这个太累了，我要休息一下。,再次尝试这玩意之前，我得做会心理准备。
+1469,chat.foodSickness.sick.12,"No thanks, I'll have something else for a change",不了，我吃点别的换换口味。,不了，我要吃点别的换换口味。
+1470,chat.foodSickness.sick.13,"It smells even worse than it looks, I'll find something else to eat",这玩意闻起来比看上去还要糟糕；我要找点别的来吃。,这玩意闻起来比看上去还要糟糕，我要找点别的来吃。
+1471,chat.foodSickness.sick.15,"I can't bring myself to eat any more of that, there must surely be some other food around here",这附近一定有别的食物，求你让我去找一下。,我再也吃不下去了，这附近肯定还有别的食物。
+1475,chat.aspect.discovery.gecko.recovering,The gecko is still recovering from the last experiment,实验过后壁虎需要休息一会，你不能折磨实验动物。,实验过后壁虎需要休息一会。
