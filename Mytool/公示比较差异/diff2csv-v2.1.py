@@ -39,6 +39,9 @@ def compare_json_files(en_us_file, zh_cn_old_file, zh_cn_file, en_us_old_file=No
         new_writer.writerow(header)
         changes_writer.writerow(['Key', 'en_us-old', 'en_us', 'zh_cn-old', 'zh_cn'])
 
+        # 记录已写入 changes-diff.csv 的 key
+        changes_keys = set()
+
         # 遍历 en_us 的所有 key
         for key in en_us:
             en_value = en_us[key]
@@ -46,15 +49,16 @@ def compare_json_files(en_us_file, zh_cn_old_file, zh_cn_file, en_us_old_file=No
             zh_value = zh_cn.get(key, '🚫')
             en_old_value = en_us_old.get(key, '🚫')
 
-            # 写入数据
-            if zh_old_value == "🚫" or zh_value == "🚫":
-                new_writer.writerow([key, en_value, zh_old_value, zh_value])
-            elif zh_old_value != zh_value:
-                diff_writer.writerow([key, en_value, zh_old_value, zh_value])
-
             # 处理en_us-old与en_us的比较
             if en_us_old and en_old_value != '🚫' and en_old_value != en_value:
                 write_changes(changes_writer, key, en_old_value, en_value, zh_old_value, zh_value)
+                changes_keys.add(key)
+
+            # 写入数据
+            if zh_old_value == "🚫" or zh_value == "🚫":
+                new_writer.writerow([key, en_value, zh_old_value, zh_value])
+            elif zh_old_value != zh_value and key not in changes_keys:
+                diff_writer.writerow([key, en_value, zh_old_value, zh_value])
 
         # 遍历 en_us-old 的所有 key
         if en_us_old:
