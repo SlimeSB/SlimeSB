@@ -1,0 +1,34 @@
+Key,en_us-old,en_us,zh_cn-old,zh_cn
+advancement.immersiveengineering.mb_arcfurnace.desc,Form the Arc Furnace Multiblock,Form the Arc Furnace,搭建电弧炉多方块结构,搭建电弧炉
+advancement.immersiveengineering.mb_blastfurnace.desc,Form the Crude Blast Furnace Multiblock,Form the Crude Blast Furnace,搭建粗制高炉多方块结构,搭建粗制高炉
+advancement.immersiveengineering.mb_cokeoven.desc,Form the Coke Oven Multiblock,Form the Coke Oven,搭建焦炉多方块结构,搭建焦炉
+advancement.immersiveengineering.mb_crusher.desc,Form the Crusher Multiblock,Form the Crusher,搭建粉碎机多方块结构,搭建粉碎机
+advancement.immersiveengineering.mb_dieselgen.desc,Form the Diesel Generator Multiblock,Form the Diesel Generator,搭建柴油发电机多方块结构,搭建柴油发电机
+advancement.immersiveengineering.mb_excavator.desc,Form the Excavator Multiblock,Form the Excavator,搭建斗轮式挖掘机多方块结构,搭建斗轮式挖掘机
+advancement.immersiveengineering.mb_fermenter.desc,Form the Fermenter Multiblock,Form the Fermenter,搭建发酵机多方块结构,搭建发酵机
+advancement.immersiveengineering.mb_improvedblastfurnace.desc,Form the Improved Blast Furnace Multiblock,Form the Improved Blast Furnace,搭建强化高炉多方块结构,搭建改良高炉
+advancement.immersiveengineering.mb_metalpress.desc,Form the Metal Press Multiblock,Form the Metal Press,搭建金属冲压机多方块结构,搭建金属冲压机
+advancement.immersiveengineering.mb_mixer.desc,Form the Mixer Multiblock,Form the Mixer,搭建搅拌机多方块结构,搭建搅拌机
+advancement.immersiveengineering.mb_refinery.desc,Form the Refinery Multiblock,Form the Refinery,搭建炼油厂多方块结构,搭建炼油厂
+advancement.immersiveengineering.mb_silo.desc,Form the Silo Multiblock,Form the Silo,搭建筒仓多方块结构,搭建筒仓
+advancement.immersiveengineering.mb_squeezer.desc,Form the Squeezer Multiblock,Form the Squeezer,搭建工业挤压机多方块结构,搭建工业挤压机
+advancement.immersiveengineering.mb_tank.desc,Form the Tank Multiblock,Form the Tank,搭建储罐多方块结构,搭建储罐
+block.immersiveengineering.alu_scaffolding_grate_top,Aluminium Scaffolding,Grated Aluminium Scaffolding,铝脚手架,格栅铝脚手架
+block.immersiveengineering.alu_scaffolding_wooden_top,Aluminium Scaffolding,Treated Aluminium Scaffolding,铝脚手架,防腐木铝脚手架
+block.immersiveengineering.chute_aluminum,Sheetmetal Chute,Aluminium Sheetmetal Chute,铝板金属滑道,铝板金属滑道
+block.immersiveengineering.chute_copper,Sheetmetal Chute,Copper Sheetmetal Chute,铜板金属滑道,铜板金属滑道
+block.immersiveengineering.chute_iron,Sheetmetal Chute,Iron Sheetmetal Chute,铁板金属滑道,铁板金属滑道
+block.immersiveengineering.chute_steel,Sheetmetal Chute,Steel Sheetmetal Chute,钢板金属滑道,钢板金属滑道
+block.immersiveengineering.circuit_table,Engineer's Circuit Table,Engineer's Circuit Workbench,工程师电路台,工程师电路台
+block.immersiveengineering.slab_alu_scaffolding_grate_top,Aluminium Scaffolding Slab,Grated Aluminium Scaffolding Slab,铝脚手架台阶,格栅铝脚手架台阶
+block.immersiveengineering.slab_alu_scaffolding_wooden_top,Aluminium Scaffolding Slab,Treated Aluminium Scaffolding Slab,铝脚手架台阶,防腐木铝脚手架台阶
+block.immersiveengineering.slab_steel_scaffolding_grate_top,Steel Scaffolding Slab,Grated Steel Scaffolding Slab,钢脚手架台阶,格栅钢脚手架台阶
+block.immersiveengineering.slab_steel_scaffolding_wooden_top,Steel Scaffolding Slab,Treated Steel Scaffolding Slab,钢脚手架台阶,防腐木钢脚手架台阶
+block.immersiveengineering.stairs_alu_scaffolding_grate_top,Aluminium Scaffolding Stairs,Grated Aluminium Scaffolding Stairs,铝脚手架楼梯,格栅铝脚手架楼梯
+block.immersiveengineering.stairs_alu_scaffolding_wooden_top,Aluminium Scaffolding Stairs,Treated Aluminium Scaffolding Stairs,铝脚手架楼梯,防腐木铝脚手架楼梯
+block.immersiveengineering.stairs_steel_scaffolding_grate_top,Steel Scaffolding Stairs,Grated Steel Scaffolding Stairs,钢脚手架楼梯,格栅钢脚手架楼梯
+block.immersiveengineering.stairs_steel_scaffolding_wooden_top,Steel Scaffolding Stairs,Treated Steel Scaffolding Stairs,钢脚手架楼梯,防腐木钢脚手架楼梯
+block.immersiveengineering.steel_scaffolding_grate_top,Steel Scaffolding,Grated Steel Scaffolding,钢脚手架,格栅钢脚手架
+block.immersiveengineering.steel_scaffolding_wooden_top,Steel Scaffolding,Treated Steel Scaffolding,钢脚手架,防腐木钢脚手架
+desc.immersiveengineering.info.durability,Durability: %1$s,Durability:,耐久：%1$s,耐久度：%1$s
+ie.manual.entry.minerals_desc,%1$s\nIt consists of: %2$s.\n\nIts spoils are:%3$s,%1$s\nIt consists of: %2$s\n\nIts spoils are:%3$s,%1$s\n其矿床包含：%2$s\n\n附带：%3$s,%1$s\n其矿床包含：%2$s\n\n附带：%3$s

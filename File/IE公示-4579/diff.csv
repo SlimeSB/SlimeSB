@@ -1,0 +1,79 @@
+Key,en_us,zh_cn-old,zh_cn
+advancement.immersiveengineering.buy_oremap,X Marks the Spot,X标记位置,“X”标记着矿床
+advancement.immersiveengineering.craft_buzzsaw,Treecapitation,伐木工,一键砍树
+advancement.immersiveengineering.craft_chemthrower,Spray and Pray,喷溅与祈祷,泼水射击
+advancement.immersiveengineering.craft_pump,Under Pressure,压力作用,Under Pressure
+advancement.immersiveengineering.mb_blastfurnace,Really Hot Topic,热门话题,真·热门话题
+advancement.immersiveengineering.mb_cokeoven,Concentrated Carbon,炭集中,碳集中
+advancement.immersiveengineering.mb_fermenter,Moonshine!,自酿酒!,私酿酒！
+advancement.immersiveengineering.multiblocks_root,Multiblocks,沉浸工程-多方块结构,多方块结构
+advancement.immersiveengineering.secret_bttf.desc,"When this baby hits 88 mph, you're gonna see some serious s-",当这个宝贝的时速达到88英里时，你会看到一些严重的…,当这个宝贝的时速达到88英里时，你会看到一些严重的……
+advancement.immersiveengineering.secret_drillbreak,GIGA...DRILL...BREAKER!!!,超级……钻头……破坏者！！！,十亿倍钻头……BREAK！
+advancement.immersiveengineering.secret_drillbreak.desc,JUST WHO THE HELL DO YOU THINK I AM?!,你·以·为·我·是·谁？！,你以为我是谁啊！！
+advancement.immersiveengineering.secret_luckofthedraw.desc,All or nothing,全有即全无,梭哈一把
+advancement.immersiveengineering.skyhook_distance.desc,Travel a total of 1km with the Skyhook,使用工程师天钩累计移动1公里,使用工程师天钩累计移动1千米
+advancement.immersiveengineering.upgrade_buzzsaw,Rip and Tear!,血与泪！,开膛破肚！
+advancement.immersiveengineering.upgrade_revolver,Shalashaska,沙卡拉卡,左轮山猫
+block.immersiveengineering.advanced_blast_furnace,Improved Blast Furnace,强化高炉,改良高炉
+block.immersiveengineering.blast_furnace,Crude Blast Furnace,高炉,粗制高炉
+block.immersiveengineering.coresample,Core Sample,岩心样本,岩芯样本
+block.immersiveengineering.electric_lantern,Powered Lantern,电灯,电灯笼
+block.immersiveengineering.fiberboard,Fiberboard,纤维块,纤维板
+block.immersiveengineering.generator,Generator Block,发电机模块,发电机方块
+block.immersiveengineering.hempcrete,Hempcrete,麻凝土,汉麻混凝土
+block.immersiveengineering.lantern,Lantern,灯,灯笼
+block.immersiveengineering.metal_ladder_alu,Scaffold Covered Ladder,脚手架梯子,安全梯
+block.immersiveengineering.metal_ladder_steel,Scaffold Covered Ladder,脚手架梯子,安全梯
+block.immersiveengineering.radiator,Radiator Block,散热器模块,散热器方块
+block.immersiveengineering.refinery,Refinery,炼油厂,精炼厂
+block.immersiveengineering.slab_hempcrete,Hempcrete Slab,麻凝土台阶,汉麻混凝土台阶
+block.immersiveengineering.stairs_hempcrete,Hempcrete Stairs,麻凝土楼梯,汉麻混凝土楼梯
+chat.immersiveengineering.command.shaders.clear.help,§6Usage: /ie shaders clear [player]§r<br> Clear the received shaders for the given player. Clear for yourself if no player is specified.,§6用法：/ie shaders clear [player]§r<br>给指定的玩家清除皮肤，如果没有指定玩家则清除自己的。,§6用法：/ie clearshaders <[玩家]>§r<br>清除指定玩家的已获取皮肤列表，如果没有指定玩家则清除自己的。
+chat.immersiveengineering.command.shaders.clear.sucess,Received Shaders for '%1$s' were cleared,皮肤“%1$s”已被清除,玩家“%1$s”的已获取皮肤列表已被清除
+chat.immersiveengineering.command.shaders.help,§6Usage: /ie shaders <clear>§r,§6用法：/ie shaders <clear>§r,§6用法：/ie clearshaders <[玩家]>§r
+chat.immersiveengineering.info.survey.finished,There is no more information on this mineral vein to be discovered,关于此矿脉，未发现更多信息,此矿脉已无更多可发现信息
+chat.immersiveengineering.warning.wrongDimension,You are in the wrong dimension,你处在一个错误的世界中,你处在一个错误的维度中
+desc.immersiveengineering.flavour.drillhead.level,Mining Level: %1$s,采矿等级：%1$s,挖掘等级：%1$s
+desc.immersiveengineering.flavour.drillhead.size,Mining Area: %1$sx%1$sx%2$s,采矿区域：%1$sx%1$sx%2$s,挖掘范围：%1$sx%1$sx%2$s
+desc.immersiveengineering.flavour.drillhead.speed,Mining Speed: %1$s,采矿速度：%1$s,挖掘速度：%1$s
+desc.immersiveengineering.flavour.fluidStack,%1$s: %2$s/%3$smB,%1$s：%2$s/%3$smB,%1$s: %2$s/%3$smB
+desc.immersiveengineering.flavour.toolupgrade_buzzsaw_spareblades,Carry additional blades for the Buzzsaw,携带更多伐木机械锯的锯片,为伐木机械锯携带更多锯片
+desc.immersiveengineering.flavour.toolupgrade_chemthrower_focus,Decreases spread and increases range of the Chemical Thrower,减少化学喷射器的喷射速度，并增加其范围,减少化学喷射器喷射的扩散，并增加其射程
+desc.immersiveengineering.flavour.toolupgrade_chemthrower_multitank,Allows multiple Fluids in the Chemical Thrower,为化学喷射器配备化学流体罐,允许化学喷射器携带多种流体
+desc.immersiveengineering.flavour.toolupgrade_drill_damage,"Increases the attack damage and digging speed of the Mining Drill, stacks up to 3",提升采矿机械钻攻击伤害，最高叠加至3点,提升采矿机械钻的近战伤害和挖掘速度，最多叠加3个
+desc.immersiveengineering.flavour.toolupgrade_drill_lube,Reduces the damage to the Mining Drill head and Buzzsaw blade,减少采矿机械钻受到的损耗,减少采矿机械钻钻头和伐木机械锯锯片受到的损耗
+desc.immersiveengineering.flavour.toolupgrade_powerpack_tesla,Electrocute your attackers,电击你的攻击者,电击攻击你的人
+desc.immersiveengineering.flavour.toolupgrade_railgun_scope,Allows ranged weapons to zoom in,可以增大远程武器的视野,允许远程武器放大瞄准
+desc.immersiveengineering.flavour.toolupgrade_revolver_bayonet,Adds melee damage to the Revolver,为左轮手枪添加近战伤害,提高左轮手枪的近战伤害
+desc.immersiveengineering.flavour.toolupgrade_shield_flash,Produces a blinding flash,制作一个来闪瞎你的眼,产生一道致盲闪光
+desc.immersiveengineering.flavour.toolupgrade_shield_magnet,Equips the shield at the press of a button,按下按钮装上盾牌,允许一键装备盾牌
+desc.immersiveengineering.info.electrodeIntegrity,Integrity %1$s %%,完整度%1$s %%,完整度%1$s%%
+desc.immersiveengineering.info.fluidStored,%1$s %2$s mB,%1$s %2$smB,%1$s %2$s mB
+desc.immersiveengineering.info.ift,%1$s IF / tick,%1$sIF/t,%1$s IF / tick
+desc.immersiveengineering.info.mineral.beryl,Beryl,铯绿柱石矿,绿柱石矿
+desc.immersiveengineering.info.mineral.cooled_lava_tube,Cooled Lava Tube,冷却熔岩管道,冷却熔岩管
+desc.immersiveengineering.info.mineral.uraninite,Uraninite, 沥青铀矿, 晶质铀矿
+desc.immersiveengineering.info.redstoneChannel.rec,Channel Receiving: %1$s,频道接受中：%1$s,接收信号频道：%1$s
+desc.immersiveengineering.info.redstoneChannel.send,Channel Sending: %1$s,频道发送中：%1$s,发送信号频道：%1$s
+desc.immersiveengineering.info.refinery.slot.catalyst,Catalyst,催化,催化剂
+desc.immersiveengineering.info.shader.details.bipride,It's not a phase.,It's not a phase.,这可不是一时兴起。
+desc.immersiveengineering.info.shader.details.netherforged,An experiment with vanilla's magma texture. Maybe a little bit inspired by DOOM?,用原版岩浆纹理做出的小尝试。也许灵感来自DOOM？,用原版岩浆块纹理做出的小尝试。也许灵感来自DOOM？
+desc.immersiveengineering.info.shader.immersiveengineering:drill,Mining Drill,岩心钻井,采矿机械钻
+desc.immersiveengineering.info.shader.rarity.uncommon,Uncommon,良好,少见
+gui.immersiveengineering.config.redstone_color_receiving,Receiving Signal Color:,接收到信号的颜色：,接收信号颜色：
+gui.immersiveengineering.config.redstone_color_sending,Sending Signal Color:,发送信号的颜色：,发送信号颜色：
+item.immersiveengineering.bannerpattern_bevels.desc,Plating,电镀,金属板
+item.immersiveengineering.bannerpattern_ornate.desc,Ornate Frame,花里胡哨的框架,精致框架
+item.immersiveengineering.bannerpattern_treated_wood.desc,Wooden Paneling,木嵌板,防腐木板
+item.immersiveengineering.fertilizer,Industrial Fertilizer,肥料,工业肥料
+item.immersiveengineering.gunpart_drum,Revolver Drum,左筒,转轮
+item.immersiveengineering.shader_bag_common,Common Shader Grabbag,普通皮肤奖励袋,常见皮肤奖励袋
+item.immersiveengineering.shader_bag_uncommon,Uncommon Shader Grabbag,精良皮肤奖励袋,少见皮肤奖励袋
+item.immersiveengineering.toolupgrade_buzzsaw_spareblades,Blade Quiver,刀片盒子,锯片盒子
+item.immersiveengineering.toolupgrade_chemthrower_multitank,Multitank,化学流体罐,多重流体罐
+item.immersiveengineering.windmill_sail,Windmill Sail,改良风车叶片,风车帆
+manual.immersiveengineering.construction,Construction,结构,建筑方块
+subtitle.immersiveengineering.fermenter,Fermenter whirrs,发酵机：呼呼作响,发酵机：嗡嗡
+subtitle.immersiveengineering.refinery,Refinery whirrs,炼油厂：呼呼作响,炼油厂：嗡嗡
+subtitle.immersiveengineering.revolverFire,Gunshot,枪声,枪击声
+subtitle.immersiveengineering.revolverReload,Reload,装填声,装弹声

@@ -1,0 +1,236 @@
+Key,en_us,zh_cn-old,zh_cn
+advancement.immersiveengineering.kill_illager,Superior Weaponry,高级武器
+advancement.immersiveengineering.kill_illager.desc,"Kill an Illager with Revolver, Railgun or Chemthrower. Beware of the new raiders!",用左轮手枪、磁轨炮或化学喷射器击杀一个灾厄村民。当心新的袭击者！
+block.immersiveengineering.acetaldehyde_fluid_block,Acetaldehyde,乙醛
+block.immersiveengineering.alu_catwalk,Aluminium Catwalk,铝施工步道
+block.immersiveengineering.alu_catwalk_stairs,Aluminium Catwalk Stairs,铝施工步道楼梯
+block.immersiveengineering.alu_fence_gate,Aluminium Fence Gate,铝栅栏门
+block.immersiveengineering.alu_window,Aluminium Framed Window,铝框窗
+block.immersiveengineering.biodiesel_fluid_block,Biodiesel,生物柴油
+block.immersiveengineering.blueprint_shelf,Blueprint Shelf,蓝图架
+block.immersiveengineering.cagelamp,Cage Lamp,笼灯
+block.immersiveengineering.chute_colored_black,Black Sheetmetal Chute,黑色板金属滑道
+block.immersiveengineering.chute_colored_blue,Blue Sheetmetal Chute,蓝色板金属滑道
+block.immersiveengineering.chute_colored_brown,Brown Sheetmetal Chute,棕色板金属滑道
+block.immersiveengineering.chute_colored_cyan,Cyan Sheetmetal Chute,青色板金属滑道
+block.immersiveengineering.chute_colored_gray,Gray Sheetmetal Chute,灰色板金属滑道
+block.immersiveengineering.chute_colored_green,Green Sheetmetal Chute,绿色板金属滑道
+block.immersiveengineering.chute_colored_light_blue,Light Blue Sheetmetal Chute,淡蓝色板金属滑道
+block.immersiveengineering.chute_colored_light_gray,Light Gray Sheetmetal Chute,淡灰色板金属滑道
+block.immersiveengineering.chute_colored_lime,Lime Sheetmetal Chute,黄绿色板金属滑道
+block.immersiveengineering.chute_colored_magenta,Magenta Sheetmetal Chute,品红色板金属滑道
+block.immersiveengineering.chute_colored_orange,Orange Sheetmetal Chute,橙色板金属滑道
+block.immersiveengineering.chute_colored_pink,Pink Sheetmetal Chute,粉红色板金属滑道
+block.immersiveengineering.chute_colored_purple,Purple Sheetmetal Chute,紫色板金属滑道
+block.immersiveengineering.chute_colored_red,Red Sheetmetal Chute,红色板金属滑道
+block.immersiveengineering.chute_colored_white,White Sheetmetal Chute,白色板金属滑道
+block.immersiveengineering.chute_colored_yellow,Yellow Sheetmetal Chute,黄色板金属滑道
+block.immersiveengineering.clinker_brick,Clinker Bricks,过烧红砖块
+block.immersiveengineering.clinker_brick_quoin,Clinker Brick Quoin,过烧红砖墙角
+block.immersiveengineering.clinker_brick_sill,Clinker Brick Sill,过烧红砖窗台
+block.immersiveengineering.concrete_brick,Concrete Brick,混凝土砖
+block.immersiveengineering.concrete_brick_cracked,Cracked Concrete Brick,裂纹混凝土砖
+block.immersiveengineering.concrete_chiseled,Chiseled Concrete,雕纹混凝土砖
+block.immersiveengineering.concrete_fluid_block,Liquid Concrete,液态混凝土
+block.immersiveengineering.concrete_pillar,Concrete Pillar,混凝土柱
+block.immersiveengineering.concrete_reinforced,Reinforced Concrete,强化混凝土
+block.immersiveengineering.concrete_reinforced_tile,Reinforced Concrete Tile,强化混凝土瓦
+block.immersiveengineering.creosote_fluid_block,Creosote Oil,杂酚油
+block.immersiveengineering.electromagnet,Electromagnet,电磁铁
+block.immersiveengineering.ethanol_fluid_block,Ethanol,乙醇
+block.immersiveengineering.grit_sand,Grit Sand,粗砂
+block.immersiveengineering.hempcrete_brick,Hempcrete Brick,汉麻混凝土砖
+block.immersiveengineering.hempcrete_brick_cracked,Cracked Hempcrete Brick,裂纹汉麻混凝土砖
+block.immersiveengineering.hempcrete_chiseled,Chiseled Hempcrete,雕纹汉麻混凝土
+block.immersiveengineering.hempcrete_pillar,Hempcrete Pillar,汉麻混凝土柱
+block.immersiveengineering.herbicide_fluid_block,Herbicide,除草剂
+block.immersiveengineering.high_power_biodiesel_fluid_block,High-Cetane Biodiesel,高十六烷值生物柴油
+block.immersiveengineering.machine_interface,Machine Interface,机器接口
+block.immersiveengineering.phenolic_resin_fluid_block,Phenolic Resin,酚醛树脂
+block.immersiveengineering.pipe_valve,Pipe Valve,管道阀
+block.immersiveengineering.plantoil_fluid_block,Plant Oil,植物油
+block.immersiveengineering.radio_tower,Radio Tower,广播塔
+block.immersiveengineering.redstone_acid_fluid_block,Redstone Acid,红石酸
+block.immersiveengineering.redstone_state_cell,Redstone State Cell,红石状态单元
+block.immersiveengineering.redstone_switchboard,Redstone Switchboard,红石接线板
+block.immersiveengineering.redstone_timer,Redstone Timer,红石计时器
+block.immersiveengineering.reinforced_window,Panzerglass Window,钢化玻璃窗
+block.immersiveengineering.siren,Warning Siren,警报器
+block.immersiveengineering.slab_clinker_brick,Clinker Brick Slab,过烧红砖台阶
+block.immersiveengineering.slab_concrete_brick,Concrete Brick Slab,混凝土砖台阶
+block.immersiveengineering.slab_concrete_reinforced,Reinforced Concrete Slab,强化混凝土台阶
+block.immersiveengineering.slab_concrete_reinforced_tile,Reinforced Concrete Tile Slab,强化混凝土瓦台阶
+block.immersiveengineering.slab_hempcrete_brick,Hempcrete Brick Slab,汉麻混凝土砖台阶
+block.immersiveengineering.slab_slag_brick,Slag Brick Slab,矿渣砖台阶
+block.immersiveengineering.slag_brick,Slag Bricks,矿渣砖
+block.immersiveengineering.stairs_clinker_brick,Clinker Brick Stairs,过烧红砖楼梯
+block.immersiveengineering.stairs_concrete_brick,Concrete Brick Stairs,混凝土砖楼梯
+block.immersiveengineering.stairs_hempcrete_brick,Hempcrete Brick Stairs,汉麻混凝土砖楼梯
+block.immersiveengineering.stairs_slag_brick,Slag Brick Stairs,矿渣砖楼梯
+block.immersiveengineering.steel_catwalk,Steel Catwalk,钢施工步道
+block.immersiveengineering.steel_catwalk_stairs,Steel Catwalk Stairs,钢施工步道楼梯
+block.immersiveengineering.steel_door,Steel Door,钢门
+block.immersiveengineering.steel_fence_gate,Steel Fence Gate,钢栅栏门
+block.immersiveengineering.steel_trapdoor,Steel Trapdoor,钢活板门
+block.immersiveengineering.steel_window,Steel Framed Window,钢框窗
+block.immersiveengineering.treated_catwalk,Treated Wood Catwalk,防腐木施工步道
+block.immersiveengineering.treated_catwalk_stairs,Treated Wood Catwalk Stairs,防腐木施工步道楼梯
+block.immersiveengineering.treated_door,Treated Wood Door,防腐木门
+block.immersiveengineering.treated_door_framed,Treated Wood Door,防腐木门
+block.immersiveengineering.treated_fence_gate,Treated Wood Fence Gate,防腐木栅栏门
+block.immersiveengineering.treated_trapdoor,Treated Wood Trapdoor,防腐木活板门
+block.immersiveengineering.treated_trapdoor_framed,Treated Wood Trapdoor,防腐木活板门
+block.immersiveengineering.treated_window,Treated Wood Window,防腐木窗
+block.immersiveengineering.wall_clinker_brick,Clinker Brick Wall,过烧红砖墙
+block.immersiveengineering.wall_slag_brick,Slag Brick Wall,矿渣砖墙
+block.immersiveengineering.warning_sign_arrow_double_down,Warning Sign - Double Arrow Down,警告标志-下双箭头
+block.immersiveengineering.warning_sign_arrow_double_left,Warning Sign - Double Arrow Left,警告标志-左双箭头
+block.immersiveengineering.warning_sign_arrow_double_right,Warning Sign - Double Arrow Right,警告标志-右双箭头
+block.immersiveengineering.warning_sign_arrow_double_up,Warning Sign - Double Arrow Up,警告标志-上双箭头
+block.immersiveengineering.warning_sign_arrow_down,Warning Sign - Arrow Down,警告标志-下箭头
+block.immersiveengineering.warning_sign_arrow_left,Warning Sign - Arrow Left,警告标志-左箭头
+block.immersiveengineering.warning_sign_arrow_right,Warning Sign - Arrow Right,警告标志-右箭头
+block.immersiveengineering.warning_sign_arrow_up,Warning Sign - Arrow Up,警告标志-上箭头
+block.immersiveengineering.warning_sign_attention,Warning Sign - General Warning,警告标志-一般警告
+block.immersiveengineering.warning_sign_cat,Warning Sign - Cat Ears,警告标志-猫耳
+block.immersiveengineering.warning_sign_cold,Warning Sign - Low Temperature,警告标志-低温
+block.immersiveengineering.warning_sign_creeper,Warning Sign - Creeper,警告标志-苦力怕
+block.immersiveengineering.warning_sign_ear_defenders,Warning Sign - Hearing Protection,警告标志-听力防护
+block.immersiveengineering.warning_sign_electric,Warning Sign - Shock Hazard,警告标志-触电危险
+block.immersiveengineering.warning_sign_falling,Warning Sign - Falling Objects,警告标志-高空坠物
+block.immersiveengineering.warning_sign_fire,Warning Sign - Flammable,警告标志-易燃物品
+block.immersiveengineering.warning_sign_hot,Warning Sign - Hot Surface,警告标志-热表面
+block.immersiveengineering.warning_sign_magnet,Warning Sign - Magnetic Field,警告标志-磁场
+block.immersiveengineering.warning_sign_shrieker,Warning Sign - Sculk Shrieker,警告标志-幽匿尖啸体
+block.immersiveengineering.warning_sign_sound,Warning Sign - Sound Warning,警告标志-声音警告
+block.immersiveengineering.warning_sign_turret,Warning Sign - Turret,警告标志-炮塔
+block.immersiveengineering.warning_sign_villager,Warning Sign - Villager,警告标志-村民
+block.immersiveengineering.warning_sign_warden,Warning Sign - Warden,警告标志-监守者
+chat.immersiveengineering.info.crate_sealed,The crate is now sealed and can be picked up,此储物箱已密封，可以拆下来了
+chat.immersiveengineering.warning.crate_unsealed,This crate is not sealed,此储物箱未密封
+config.jade.plugin_immersiveengineering.multiblock_inventory,Multiblock Inventory,多方块结构物品栏
+config.jade.plugin_immersiveengineering.multiblock_tank,Multiblock Tank,多方块结构流体存储
+desc.immersiveengineering.flavour.revolver.einhorn,Rule of §m6§r 8,Rule of §m6§r 8
+desc.immersiveengineering.flavour.toolupgrade_powerpack_magnet,Attract nearby items,吸引附近的物品
+desc.immersiveengineering.flavour.toolupgrade_skyhook_insulation,Prevent electrocution from riding the Skyhook along live wires,防止在通电电线上用天钩移动时触电
+desc.immersiveengineering.flavour.toolupgrade_skyhook_mace,Deal greatly increased damage when falling towards an enemy,从高处落向敌人时造成的伤害大幅提升
+desc.immersiveengineering.flavour.toolupgrade_skyhook_slope,Move faster up slopes with the Skyhook,用天钩上坡时移动更快
+desc.immersiveengineering.info.blueprint.warning_sign,Warning Signs,警告标志
+desc.immersiveengineering.info.mineral.alluvial_sift,Alluvial Sift,冲击筛层
+desc.immersiveengineering.info.mineral.amethyst_crevasse,Amethyst Crevasse,紫晶裂缝
+desc.immersiveengineering.info.mineral.ancient_seabed,Ancient Seabed,远古海床
+desc.immersiveengineering.info.mineral.banded_iron,Banded Iron,带状铁矿
+desc.immersiveengineering.info.mineral.hardened_clay_pan,Hardened Claypan,硬化黏土层
+desc.immersiveengineering.info.mineral.lazulitic_intrusion,Lazulitic Intrusion,天蓝石侵入岩
+desc.immersiveengineering.info.mineral.rich_auricupride,Rich Auricupride,富金铜矿
+desc.immersiveengineering.info.noChargeOnArmor,Can not be charged while attached to armor,附着于盔甲时无法充电
+desc.immersiveengineering.jei.category.fertilizer,Garden Cloche Fertilizer,园艺玻璃罩肥料
+desc.immersiveengineering.jei.cloche_modifier,Growth Modifier: %1$s,生长速度增益：%1$s
+entity.immersiveengineering.bulwark,Bulwark,重甲兵
+entity.immersiveengineering.commando,Commando,突击队员
+entity.immersiveengineering.fusilier,Fusilier,燧发枪手
+entity.minecraft.villager.electrician,Electrician,电工
+entity.minecraft.villager.engineer,Structural Engineer,结构工程师
+entity.minecraft.villager.gunsmith,Gunsmith,军火商
+entity.minecraft.villager.immersiveengineering:electrician,Electrician,电工
+entity.minecraft.villager.immersiveengineering:engineer,Structural Engineer,结构工程师
+entity.minecraft.villager.immersiveengineering:gunsmith,Gunsmith,军火商
+entity.minecraft.villager.immersiveengineering:machinist,Machinist,机械师
+entity.minecraft.villager.immersiveengineering:outfitter,Outfitter,皮肤商
+entity.minecraft.villager.machinist,Machinist,机械师
+entity.minecraft.villager.outfitter,Outfitter,皮肤商
+fluid_type.immersiveengineering.high_power_biodiesel,High-Cetane Biodiesel,高十六烷值生物柴油
+gui.immersiveengineering.config.machine_interface.add,Add Condition,增加条件
+gui.immersiveengineering.config.machine_interface.check.arc_furnace.additives,Additive Input,辅料输入
+gui.immersiveengineering.config.machine_interface.check.arc_furnace.electrodes,Electrode Integrity,石墨电极完整性
+gui.immersiveengineering.config.machine_interface.check.arc_furnace.slag,Slag Output,矿渣输出
+gui.immersiveengineering.config.machine_interface.check.basic.active,Machine Active,机器工作
+gui.immersiveengineering.config.machine_interface.check.basic.energy_storage,Energy Storage,能量缓存
+gui.immersiveengineering.config.machine_interface.check.basic.fluid_input,Fluid Input,流体输入
+gui.immersiveengineering.config.machine_interface.check.basic.fluid_output,Fluid Output,流体输出
+gui.immersiveengineering.config.machine_interface.check.basic.item_input,Item Input,物品输入
+gui.immersiveengineering.config.machine_interface.check.basic.item_output,Item Output,物品输出
+gui.immersiveengineering.config.machine_interface.check.mixer.tank,Fluid Stored,流体缓存
+gui.immersiveengineering.config.machine_interface.check.refinery.tank_left,Left Input Tank,左侧输入槽
+gui.immersiveengineering.config.machine_interface.check.refinery.tank_right,Right Input Tank,右侧输入槽
+gui.immersiveengineering.config.machine_interface.check.sawmill.blade,Sawblade Integrity,锯片完整性
+gui.immersiveengineering.config.machine_interface.input_color,Control Signal Input:,控制信号输入：
+gui.immersiveengineering.config.machine_interface.not_connected,The Machine Interface is not attached to a valid machine.\nPlease ensure that the interface was placed against the redstone control port of an Immersive Engineering multiblock.,机器接口未连接到可用的机器。\n请确保接口紧靠IE机器的红石控制口。
+gui.immersiveengineering.config.machine_interface.option.comparator,Comparator Output,比较器输出
+gui.immersiveengineering.config.machine_interface.option.empty,Empty,空
+gui.immersiveengineering.config.machine_interface.option.full,100% Filled,100%满
+gui.immersiveengineering.config.machine_interface.option.half,50% Filled,50%满
+gui.immersiveengineering.config.machine_interface.option.no,No,否
+gui.immersiveengineering.config.machine_interface.option.quarter,25% Filled,25%满
+gui.immersiveengineering.config.machine_interface.option.three_quarter,75% Filled,75%满
+gui.immersiveengineering.config.machine_interface.option.yes,Yes,是
+gui.immersiveengineering.config.machine_interface.remove,Remove Condition,移除条件
+gui.immersiveengineering.config.radio_tower.frequency,Frequency,频率
+gui.immersiveengineering.config.radio_tower.khz,%1$s kHz,%1$s kHz
+gui.immersiveengineering.config.radio_tower.load,Shift + click to load,Shift点击以载入
+gui.immersiveengineering.config.radio_tower.range,Range,范围
+gui.immersiveengineering.config.radio_tower.range_m,%1$s m,%1$s m
+gui.immersiveengineering.config.radio_tower.save,Click to save,点击以储存
+gui.immersiveengineering.config.radio_tower.saved_frequencies,Saved Frequencies:,已储存的频率：
+gui.immersiveengineering.config.redstone_color_control,Control Signal Color:,控制信号颜色：
+gui.immersiveengineering.config.redstone_color_input,Input Signal Color:,输入信号颜色：
+gui.immersiveengineering.config.redstone_color_output,Output Signal Color:,输出信号颜色：
+gui.immersiveengineering.config.redstone_color_reset,Resetting Signal Color:,重置信号颜色：
+gui.immersiveengineering.config.redstone_color_set,Setting Signal Color:,设置信号颜色：
+gui.immersiveengineering.config.redstone_require_control_signal,Require control signal,需要控制信号
+gui.immersiveengineering.config.siren.sound.buzzer,Buzzer,蜂鸣器
+gui.immersiveengineering.config.siren.sound.klaxon,Klaxon,高音喇叭
+gui.immersiveengineering.config.siren.sound.siren,Siren,警笛
+ie.manual.entry.minerals.biomes,§l%1$s§r is a mineral vein found in biomes that are %2$s.,§l%1$s§r是一个可以在%2$s的生物群系找到的矿脉。
+ie.manual.entry.minerals.biomes_and,%1$s and are %2$s,%1$s和%2$s
+ie.manual.entry.minerals.biomes_or,%1$s or %2$s,%1$s或%2$s
+item.immersiveengineering.bannerpattern_screwdriver,Banner Pattern,旗帜图案
+item.immersiveengineering.bannerpattern_screwdriver.desc,Screwdriver,螺丝刀
+item.immersiveengineering.bannerpattern_warning,Banner Pattern,旗帜图案
+item.immersiveengineering.bannerpattern_warning.desc,Warning Signs,警告标志
+item.immersiveengineering.bannerpattern_wirecutter,Banner Pattern,旗帜图案
+item.immersiveengineering.bannerpattern_wirecutter.desc,Wirecutter,剪线钳
+item.immersiveengineering.bulwark_spawn_egg,Bulwark Spawn Egg,重甲兵刷怪蛋
+item.immersiveengineering.commando_spawn_egg,Commando Spawn Egg,突击队员刷怪蛋
+item.immersiveengineering.fusilier_spawn_egg,Fusilier Spawn Egg,燧发枪手刷怪蛋
+item.immersiveengineering.high_power_biodiesel_bucket,Bucket of High-Cetane Biodiesel,高十六烷值生物柴油桶
+item.immersiveengineering.nugget_netherite,Netherite Nugget,下界合金粒
+item.immersiveengineering.revolver.einhorn,Eu-K508 S 'Einhorn',Eu-K508 S 'Einhorn'
+item.immersiveengineering.stick_netherite,Netherite Rod,下界合金棒
+item.immersiveengineering.toolupgrade_powerpack_magnet,Portable Electromagnet,便携电磁铁
+item.immersiveengineering.toolupgrade_skyhook_insulation,Insulated Grip,绝缘把手
+item.immersiveengineering.toolupgrade_skyhook_mace,Heavy Impact Hooks,重击钩子
+item.immersiveengineering.toolupgrade_skyhook_slope,High Torque Motor,高扭矩马达
+manual.immersiveengineering.electrical_grids,Electrical Grids,电网
+manual.immersiveengineering.explosives_weaponry,Explosives & Weaponry,爆炸物与武器
+manual.immersiveengineering.heavy_machinery,Heavy Machinery,重型机器
+manual.immersiveengineering.introduction,Introduction,引言
+manual.immersiveengineering.multiblock_constructions,Multiblock Constructions,多方块结构
+manual.immersiveengineering.other_engineers,Other Engineers,其他工程师们
+manual.immersiveengineering.redstone_control,Redstone Control,红石控制
+manual.immersiveengineering.resources,Resources,资源
+manual.immersiveengineering.storage_transport,Storage & Transport,储存与运输
+manual.immersiveengineering.updates,!!Update News!!,!!更新新闻!!
+manual.immersiveengineering.workbenches_machinery,Workbenches & Machinery,工作台与机械
+subtitle.immersiveengineering.arc_furnace,Arc Furnace causes lightning,电弧炉：产生电弧
+subtitle.immersiveengineering.buzzer,Buzzer warning,蜂鸣器：警报
+subtitle.immersiveengineering.electromagnet,Electromagnet hums,电磁铁：哼哼
+subtitle.immersiveengineering.klaxon,Klaxon blaring,高音喇叭：啸叫
+subtitle.immersiveengineering.mill_creaking,Mill wheel creaks,锯木机：锯片损坏
+subtitle.immersiveengineering.ore_conveyor,Excavator transports ore,斗轮式挖掘机：挖出矿石
+subtitle.immersiveengineering.ore_dump,Excavator dumps ore into hopper,斗轮式挖掘机：将矿石倒入漏斗
+subtitle.immersiveengineering.process_1,Automatic Engineer's Workbench drills,自动化工程师装配台：钻孔
+subtitle.immersiveengineering.process_1_lift,Automatic Engineer's Workbench whirrs,自动化工程师装配台：嗡嗡
+subtitle.immersiveengineering.process_2,Automatic Engineer's Workbench solders,自动化工程师装配台：焊接
+subtitle.immersiveengineering.process_2_lift,Automatic Engineer's Workbench whirrs,自动化工程师装配台：嗡嗡
+subtitle.immersiveengineering.siren,Siren howling,警笛：鸣叫
+tag.biome.forge.is_swamp,swamps,沼泽
+tag.biome.immersiveengineering.generate_ancient_seabed,swampy or growing corals,沼泽或珊瑚礁
+tag.biome.immersiveengineering.generate_hardened_clay_pan,flat and dry,平坦且干燥
+tag.biome.minecraft.is_badlands,badlands,恶地
+tag.biome.minecraft.is_mountain,mountainous,山地
+tag.biome.minecraft.is_nether,in the nether,位于下界
+tag.biome.minecraft.is_ocean,oceanic,海洋
+tag.biome.minecraft.is_overworld,in the overworld,位于主世界
+tag.biome.minecraft.is_river,rivers,河流
+tag.biome.minecraft.is_taiga,taigas,针叶林
