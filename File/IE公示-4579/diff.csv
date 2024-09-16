@@ -1,4 +1,28 @@
 Key,en_us,zh_cn-old,zh_cn
+block.immersiveengineering.advanced_blast_furnace,Improved Blast Furnace,强化高炉,改良高炉
+block.immersiveengineering.blast_furnace,Crude Blast Furnace,高炉,粗制高炉
+block.immersiveengineering.coresample,Core Sample,岩心样本,岩芯样本
+block.immersiveengineering.electric_lantern,Powered Lantern,电灯,电灯笼
+block.immersiveengineering.fiberboard,Fiberboard,纤维块,纤维板
+block.immersiveengineering.generator,Generator Block,发电机模块,发电机方块
+block.immersiveengineering.hempcrete,Hempcrete,麻凝土,汉麻混凝土
+block.immersiveengineering.lantern,Lantern,灯,灯笼
+block.immersiveengineering.metal_ladder_alu,Scaffold Covered Ladder,脚手架梯子,安全梯
+block.immersiveengineering.metal_ladder_steel,Scaffold Covered Ladder,脚手架梯子,安全梯
+block.immersiveengineering.radiator,Radiator Block,散热器模块,散热器方块
+block.immersiveengineering.refinery,Refinery,炼油厂,精炼厂
+block.immersiveengineering.slab_hempcrete,Hempcrete Slab,麻凝土台阶,汉麻混凝土台阶
+block.immersiveengineering.stairs_hempcrete,Hempcrete Stairs,麻凝土楼梯,汉麻混凝土楼梯
+item.immersiveengineering.bannerpattern_bevels.desc,Plating,电镀,金属板
+item.immersiveengineering.bannerpattern_ornate.desc,Ornate Frame,花里胡哨的框架,精致框架
+item.immersiveengineering.bannerpattern_treated_wood.desc,Wooden Paneling,木嵌板,防腐木板
+item.immersiveengineering.fertilizer,Industrial Fertilizer,肥料,工业肥料
+item.immersiveengineering.gunpart_drum,Revolver Drum,左筒,转轮
+item.immersiveengineering.shader_bag_common,Common Shader Grabbag,普通皮肤奖励袋,常见皮肤奖励袋
+item.immersiveengineering.shader_bag_uncommon,Uncommon Shader Grabbag,精良皮肤奖励袋,少见皮肤奖励袋
+item.immersiveengineering.toolupgrade_buzzsaw_spareblades,Blade Quiver,刀片盒子,锯片盒子
+item.immersiveengineering.toolupgrade_chemthrower_multitank,Multitank,化学流体罐,多重流体罐
+item.immersiveengineering.windmill_sail,Windmill Sail,改良风车叶片,风车帆
 advancement.immersiveengineering.buy_oremap,X Marks the Spot,X标记位置,“X”标记着矿床
 advancement.immersiveengineering.craft_buzzsaw,Treecapitation,伐木工,一键砍树
 advancement.immersiveengineering.craft_chemthrower,Spray and Pray,喷溅与祈祷,泼水射击
@@ -14,20 +38,6 @@ advancement.immersiveengineering.secret_luckofthedraw.desc,All or nothing,全有
 advancement.immersiveengineering.skyhook_distance.desc,Travel a total of 1km with the Skyhook,使用工程师天钩累计移动1公里,使用工程师天钩累计移动1千米
 advancement.immersiveengineering.upgrade_buzzsaw,Rip and Tear!,血与泪！,开膛破肚！
 advancement.immersiveengineering.upgrade_revolver,Shalashaska,沙卡拉卡,左轮山猫
-block.immersiveengineering.advanced_blast_furnace,Improved Blast Furnace,强化高炉,改良高炉
-block.immersiveengineering.blast_furnace,Crude Blast Furnace,高炉,粗制高炉
-block.immersiveengineering.coresample,Core Sample,岩心样本,岩芯样本
-block.immersiveengineering.electric_lantern,Powered Lantern,电灯,电灯笼
-block.immersiveengineering.fiberboard,Fiberboard,纤维块,纤维板
-block.immersiveengineering.generator,Generator Block,发电机模块,发电机方块
-block.immersiveengineering.hempcrete,Hempcrete,麻凝土,汉麻混凝土
-block.immersiveengineering.lantern,Lantern,灯,灯笼
-block.immersiveengineering.metal_ladder_alu,Scaffold Covered Ladder,脚手架梯子,安全梯
-block.immersiveengineering.metal_ladder_steel,Scaffold Covered Ladder,脚手架梯子,安全梯
-block.immersiveengineering.radiator,Radiator Block,散热器模块,散热器方块
-block.immersiveengineering.refinery,Refinery,炼油厂,精炼厂
-block.immersiveengineering.slab_hempcrete,Hempcrete Slab,麻凝土台阶,汉麻混凝土台阶
-block.immersiveengineering.stairs_hempcrete,Hempcrete Stairs,麻凝土楼梯,汉麻混凝土楼梯
 chat.immersiveengineering.command.shaders.clear.help,§6Usage: /ie shaders clear [player]§r<br> Clear the received shaders for the given player. Clear for yourself if no player is specified.,§6用法：/ie shaders clear [player]§r<br>给指定的玩家清除皮肤，如果没有指定玩家则清除自己的。,§6用法：/ie clearshaders <[玩家]>§r<br>清除指定玩家的已获取皮肤列表，如果没有指定玩家则清除自己的。
 chat.immersiveengineering.command.shaders.clear.sucess,Received Shaders for '%1$s' were cleared,皮肤“%1$s”已被清除,玩家“%1$s”的已获取皮肤列表已被清除
 chat.immersiveengineering.command.shaders.help,§6Usage: /ie shaders <clear>§r,§6用法：/ie shaders <clear>§r,§6用法：/ie clearshaders <[玩家]>§r
@@ -52,7 +62,7 @@ desc.immersiveengineering.info.fluidStored,%1$s %2$s mB,%1$s %2$smB,%1$s %2$s mB
 desc.immersiveengineering.info.ift,%1$s IF / tick,%1$sIF/t,%1$s IF / tick
 desc.immersiveengineering.info.mineral.beryl,Beryl,铯绿柱石矿,绿柱石矿
 desc.immersiveengineering.info.mineral.cooled_lava_tube,Cooled Lava Tube,冷却熔岩管道,冷却熔岩管
-desc.immersiveengineering.info.mineral.uraninite,Uraninite, 沥青铀矿, 晶质铀矿
+desc.immersiveengineering.info.mineral.uraninite,Uraninite, 沥青铀矿,晶质铀矿
 desc.immersiveengineering.info.redstoneChannel.rec,Channel Receiving: %1$s,频道接受中：%1$s,接收信号频道：%1$s
 desc.immersiveengineering.info.redstoneChannel.send,Channel Sending: %1$s,频道发送中：%1$s,发送信号频道：%1$s
 desc.immersiveengineering.info.refinery.slot.catalyst,Catalyst,催化,催化剂
@@ -62,16 +72,6 @@ desc.immersiveengineering.info.shader.immersiveengineering:drill,Mining Drill,�
 desc.immersiveengineering.info.shader.rarity.uncommon,Uncommon,良好,少见
 gui.immersiveengineering.config.redstone_color_receiving,Receiving Signal Color:,接收到信号的颜色：,接收信号颜色：
 gui.immersiveengineering.config.redstone_color_sending,Sending Signal Color:,发送信号的颜色：,发送信号颜色：
-item.immersiveengineering.bannerpattern_bevels.desc,Plating,电镀,金属板
-item.immersiveengineering.bannerpattern_ornate.desc,Ornate Frame,花里胡哨的框架,精致框架
-item.immersiveengineering.bannerpattern_treated_wood.desc,Wooden Paneling,木嵌板,防腐木板
-item.immersiveengineering.fertilizer,Industrial Fertilizer,肥料,工业肥料
-item.immersiveengineering.gunpart_drum,Revolver Drum,左筒,转轮
-item.immersiveengineering.shader_bag_common,Common Shader Grabbag,普通皮肤奖励袋,常见皮肤奖励袋
-item.immersiveengineering.shader_bag_uncommon,Uncommon Shader Grabbag,精良皮肤奖励袋,少见皮肤奖励袋
-item.immersiveengineering.toolupgrade_buzzsaw_spareblades,Blade Quiver,刀片盒子,锯片盒子
-item.immersiveengineering.toolupgrade_chemthrower_multitank,Multitank,化学流体罐,多重流体罐
-item.immersiveengineering.windmill_sail,Windmill Sail,改良风车叶片,风车帆
 manual.immersiveengineering.construction,Construction,结构,建筑方块
 subtitle.immersiveengineering.fermenter,Fermenter whirrs,发酵机：呼呼作响,发酵机：嗡嗡
 subtitle.immersiveengineering.refinery,Refinery whirrs,炼油厂：呼呼作响,炼油厂：嗡嗡

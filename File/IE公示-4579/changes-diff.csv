@@ -15,11 +15,6 @@ advancement.immersiveengineering.mb_squeezer.desc,Form the Squeezer Multiblock,F
 advancement.immersiveengineering.mb_tank.desc,Form the Tank Multiblock,Form the Tank,搭建储罐多方块结构,搭建储罐
 block.immersiveengineering.alu_scaffolding_grate_top,Aluminium Scaffolding,Grated Aluminium Scaffolding,铝脚手架,格栅铝脚手架
 block.immersiveengineering.alu_scaffolding_wooden_top,Aluminium Scaffolding,Treated Aluminium Scaffolding,铝脚手架,防腐木铝脚手架
-block.immersiveengineering.chute_aluminum,Sheetmetal Chute,Aluminium Sheetmetal Chute,铝板金属滑道,铝板金属滑道
-block.immersiveengineering.chute_copper,Sheetmetal Chute,Copper Sheetmetal Chute,铜板金属滑道,铜板金属滑道
-block.immersiveengineering.chute_iron,Sheetmetal Chute,Iron Sheetmetal Chute,铁板金属滑道,铁板金属滑道
-block.immersiveengineering.chute_steel,Sheetmetal Chute,Steel Sheetmetal Chute,钢板金属滑道,钢板金属滑道
-block.immersiveengineering.circuit_table,Engineer's Circuit Table,Engineer's Circuit Workbench,工程师电路台,工程师电路台
 block.immersiveengineering.slab_alu_scaffolding_grate_top,Aluminium Scaffolding Slab,Grated Aluminium Scaffolding Slab,铝脚手架台阶,格栅铝脚手架台阶
 block.immersiveengineering.slab_alu_scaffolding_wooden_top,Aluminium Scaffolding Slab,Treated Aluminium Scaffolding Slab,铝脚手架台阶,防腐木铝脚手架台阶
 block.immersiveengineering.slab_steel_scaffolding_grate_top,Steel Scaffolding Slab,Grated Steel Scaffolding Slab,钢脚手架台阶,格栅钢脚手架台阶
@@ -30,5 +25,4 @@ block.immersiveengineering.stairs_steel_scaffolding_grate_top,Steel Scaffolding 
 block.immersiveengineering.stairs_steel_scaffolding_wooden_top,Steel Scaffolding Stairs,Treated Steel Scaffolding Stairs,钢脚手架楼梯,防腐木钢脚手架楼梯
 block.immersiveengineering.steel_scaffolding_grate_top,Steel Scaffolding,Grated Steel Scaffolding,钢脚手架,格栅钢脚手架
 block.immersiveengineering.steel_scaffolding_wooden_top,Steel Scaffolding,Treated Steel Scaffolding,钢脚手架,防腐木钢脚手架
-desc.immersiveengineering.info.durability,Durability: %1$s,Durability:,耐久：%1$s,耐久度：%1$s
-ie.manual.entry.minerals_desc,%1$s\nIt consists of: %2$s.\n\nIts spoils are:%3$s,%1$s\nIt consists of: %2$s\n\nIts spoils are:%3$s,%1$s\n其矿床包含：%2$s\n\n附带：%3$s,%1$s\n其矿床包含：%2$s\n\n附带：%3$s
+desc.immersiveengineering.info.durability,Durability: %1$s,Durability:,耐久：%1$s,耐久度：
