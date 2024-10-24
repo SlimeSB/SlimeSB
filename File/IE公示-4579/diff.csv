@@ -2,26 +2,38 @@ Key,en_us,zh_cn-old,zh_cn
 block.immersiveengineering.advanced_blast_furnace,Improved Blast Furnace,强化高炉,改良高炉
 block.immersiveengineering.blast_furnace,Crude Blast Furnace,高炉,粗制高炉
 block.immersiveengineering.coresample,Core Sample,岩心样本,岩芯样本
+block.immersiveengineering.deepslate_ore_aluminum,Deepslate Bauxite Ore,深层铝土矿石,深层铝土矿矿石
 block.immersiveengineering.electric_lantern,Powered Lantern,电灯,电灯笼
+block.immersiveengineering.feedthrough,Feedthrough Insulator,通透绝缘体,馈穿绝缘体
 block.immersiveengineering.fiberboard,Fiberboard,纤维块,纤维板
 block.immersiveengineering.generator,Generator Block,发电机模块,发电机方块
 block.immersiveengineering.hempcrete,Hempcrete,麻凝土,汉麻混凝土
 block.immersiveengineering.lantern,Lantern,灯,灯笼
 block.immersiveengineering.metal_ladder_alu,Scaffold Covered Ladder,脚手架梯子,安全梯
 block.immersiveengineering.metal_ladder_steel,Scaffold Covered Ladder,脚手架梯子,安全梯
+block.immersiveengineering.ore_aluminum,Bauxite Ore,铝土矿石,铝土矿矿石
 block.immersiveengineering.radiator,Radiator Block,散热器模块,散热器方块
+block.immersiveengineering.raw_block_aluminum,Block of Raw Bauxite,粗铝土块,粗铝土矿块
 block.immersiveengineering.refinery,Refinery,炼油厂,精炼厂
 block.immersiveengineering.slab_hempcrete,Hempcrete Slab,麻凝土台阶,汉麻混凝土台阶
 block.immersiveengineering.stairs_hempcrete,Hempcrete Stairs,麻凝土楼梯,汉麻混凝土楼梯
+block.immersiveengineering.structural_arm,Structural Arm,钢结构臂,结构臂
+block.immersiveengineering.treated_wallmount,Wooden Wallmount,木制壁挂支架,木壁挂支架
 item.immersiveengineering.bannerpattern_bevels.desc,Plating,电镀,金属板
 item.immersiveengineering.bannerpattern_ornate.desc,Ornate Frame,花里胡哨的框架,精致框架
 item.immersiveengineering.bannerpattern_treated_wood.desc,Wooden Paneling,木嵌板,防腐木板
+item.immersiveengineering.bullet.flare,Flare Cartridge,闪光弹,信号弹
+item.immersiveengineering.empty_casing,Empty Casing,小型空弹壳,空弹壳
+item.immersiveengineering.empty_shell,Empty Shell,大型空弹壳,空弹筒
 item.immersiveengineering.fertilizer,Industrial Fertilizer,肥料,工业肥料
 item.immersiveengineering.gunpart_drum,Revolver Drum,左筒,转轮
+item.immersiveengineering.raw_aluminum,Raw Bauxite,粗铝土,粗铝土矿
 item.immersiveengineering.shader_bag_common,Common Shader Grabbag,普通皮肤奖励袋,常见皮肤奖励袋
 item.immersiveengineering.shader_bag_uncommon,Uncommon Shader Grabbag,精良皮肤奖励袋,少见皮肤奖励袋
 item.immersiveengineering.toolupgrade_buzzsaw_spareblades,Blade Quiver,刀片盒子,锯片盒子
 item.immersiveengineering.toolupgrade_chemthrower_multitank,Multitank,化学流体罐,多重流体罐
+item.immersiveengineering.toolupgrade_drill_capacity,Large Tank,大型燃料缸,大型流体罐
+item.immersiveengineering.toolupgrade_revolver_magazine,Extended Magazine,扩充弹夹,扩充弹匣
 item.immersiveengineering.windmill_sail,Windmill Sail,改良风车叶片,风车帆
 advancement.immersiveengineering.buy_oremap,X Marks the Spot,X标记位置,“X”标记着矿床
 advancement.immersiveengineering.craft_buzzsaw,Treecapitation,伐木工,一键砍树
@@ -30,6 +42,7 @@ advancement.immersiveengineering.craft_pump,Under Pressure,压力作用,Under Pr
 advancement.immersiveengineering.mb_blastfurnace,Really Hot Topic,热门话题,真·热门话题
 advancement.immersiveengineering.mb_cokeoven,Concentrated Carbon,炭集中,碳集中
 advancement.immersiveengineering.mb_fermenter,Moonshine!,自酿酒!,私酿酒！
+advancement.immersiveengineering.mb_silo,Sheetmetal Stash,金属板掩盖的秘密仓库,板金属掩盖的秘密仓库
 advancement.immersiveengineering.multiblocks_root,Multiblocks,沉浸工程-多方块结构,多方块结构
 advancement.immersiveengineering.secret_bttf.desc,"When this baby hits 88 mph, you're gonna see some serious s-",当这个宝贝的时速达到88英里时，你会看到一些严重的…,当这个宝贝的时速达到88英里时，你会看到一些严重的……
 advancement.immersiveengineering.secret_drillbreak,GIGA...DRILL...BREAKER!!!,超级……钻头……破坏者！！！,十亿倍钻头……BREAK！
@@ -38,26 +51,72 @@ advancement.immersiveengineering.secret_luckofthedraw.desc,All or nothing,全有
 advancement.immersiveengineering.skyhook_distance.desc,Travel a total of 1km with the Skyhook,使用工程师天钩累计移动1公里,使用工程师天钩累计移动1千米
 advancement.immersiveengineering.upgrade_buzzsaw,Rip and Tear!,血与泪！,开膛破肚！
 advancement.immersiveengineering.upgrade_revolver,Shalashaska,沙卡拉卡,左轮山猫
+chat.immersiveengineering.command.mineral.get,"Minerals found at %1$s, %2$s",在%1$s，%2$s发现矿物,"在%1$s, %2$s发现矿物"
+chat.immersiveengineering.command.mineral.get.pos,"Centered at %1$s, %2$s, radius %3$s",以%1$s，%2$s为中心，%3$s为半径,"以%1$s, %2$s为中心，%3$s为半径"
+chat.immersiveengineering.command.mineral.put.success,"Mineral vein '%1$s' with radius %2$s placed at %3$s, %4$s",半径为%2$s的矿脉“%1$s”位于%3$s，%4$s,"半径为%2$s的矿脉“%1$s”位于%3$s, %4$s"
+chat.immersiveengineering.command.mineral.set_depletion.no_mineral,"No minerals present at %1$s, %2$s",在%1$s，%2$s不存在矿物,"在%1$s, %2$s不存在矿物"
 chat.immersiveengineering.command.shaders.clear.help,§6Usage: /ie shaders clear [player]§r<br> Clear the received shaders for the given player. Clear for yourself if no player is specified.,§6用法：/ie shaders clear [player]§r<br>给指定的玩家清除皮肤，如果没有指定玩家则清除自己的。,§6用法：/ie clearshaders <[玩家]>§r<br>清除指定玩家的已获取皮肤列表，如果没有指定玩家则清除自己的。
 chat.immersiveengineering.command.shaders.clear.sucess,Received Shaders for '%1$s' were cleared,皮肤“%1$s”已被清除,玩家“%1$s”的已获取皮肤列表已被清除
 chat.immersiveengineering.command.shaders.help,§6Usage: /ie shaders <clear>§r,§6用法：/ie shaders <clear>§r,§6用法：/ie clearshaders <[玩家]>§r
+chat.immersiveengineering.info.coreDrill.progress,Core Sample in progress: %1$s,岩芯分析中：%1$s,岩芯样本分析中：%1$s
+chat.immersiveengineering.info.pump.placeCobble.false,This pump will no longer replace fluid blocks with cobblestone. §6WARNING:§f This can cause lag and is not adviseable when dealing with large amounts of fluid!,这个泵将不再把流体替换为圆石。§6警告：§f在处理大量流体时可能会产生延迟不建议使用！,这个泵不再会把流体替换为圆石。§6警告：§f可能会产生卡顿，不建议在处理大量流体时使用！！
+chat.immersiveengineering.info.pump.placeCobble.true,This pump will now replace fluids with cobblestone.,这个泵可以将流体替换为圆石。,这个泵现在会将流体替换为圆石。
+chat.immersiveengineering.info.rsControl.strongSignal.false,Strong Redstone Signal: Disabled,高频红石信号：关,强红石信号：关
+chat.immersiveengineering.info.rsControl.strongSignal.true,Strong Redstone Signal: Enabled,高频红石信号：开,强红石信号：开
 chat.immersiveengineering.info.survey.finished,There is no more information on this mineral vein to be discovered,关于此矿脉，未发现更多信息,此矿脉已无更多可发现信息
+chat.immersiveengineering.info.survey.hint.3,There is a %1$s vein about %2$s steps to the %3$s,有%1$s矿脉在向%3$s约%2$s处。,有%1$s矿脉在%3$s方约%2$s步处。
+chat.immersiveengineering.info.survey.too_close,This point is too close to previous survey points,距离上个检查点过近,距离上个探测点过近
+chat.immersiveengineering.info.survey.wrong_block,This block can't be used in a mineral survey,此方块不能用于矿物勘测,此方块不能用于矿物探测
 chat.immersiveengineering.warning.wrongDimension,You are in the wrong dimension,你处在一个错误的世界中,你处在一个错误的维度中
+death.attack.ieRevolver_armorPiercing,%1$s was shot by %2$s,%1$s被%2$s击杀,%1$s被%2$s射杀
+death.attack.ieRevolver_armorPiercing.item,%1$s was shot by %2$s using %3$s,%1$s被%2$s用%3$s击杀,%1$s被%2$s用%3$s射杀
+death.attack.ieRevolver_armorPiercing.turret,%1$s was shot by a turret,%1$s被炮塔击中,%1$s被炮塔射杀
+death.attack.ieRevolver_buckshot,%1$s was shotgunned by %2$s,%1$s被%2$s发射的鹿弹击杀,%1$s被%2$s打成了筛子
+death.attack.ieRevolver_buckshot.item,%1$s was shotgunned by %2$s using %3$s,%1$s被%2$s用%3$s发射的鹿弹击杀,%1$s被%2$s用%3$s打成了筛子
+death.attack.ieRevolver_buckshot.turret,%1$s was shotgunned by a turret,%1$s被炮塔发射的鹿弹击中,%1$s被炮塔打成了筛子
+death.attack.ieRevolver_casull,%1$s was shot by %2$s,%1$s被%2$s击杀,%1$s被%2$s射杀
+death.attack.ieRevolver_casull.item,%1$s was shot by %2$s using %3$s,%1$s被%2$s用%3$s击杀,%1$s被%2$s用%3$s射杀
+death.attack.ieRevolver_casull.turret,%1$s was shot by a turret,%1$s被炮塔击中,%1$s被炮塔射杀
+death.attack.ieRevolver_dragonsbreath,%1$s was incinerated by %2$s,%1$s被%2$s的吐息焚烧殆尽,%1$s被%2$s焚烧殆尽
+death.attack.ieRevolver_homing,%1$s was shot by %2$s's homing bullet,%1$s被%2$s发射的叶绿弹击杀,%1$s被%2$s发射的追踪弹射杀
+death.attack.ieRevolver_homing.item,%1$s was shot by %2$s's homing bullet fired from %3$s,%1$s被%2$s用%3$s发射的叶绿弹击杀,%1$s被%2$s用%3$s发射的追踪弹射杀
+death.attack.ieRevolver_homing.turret,%1$s was shot by a turret's homing bullet,%1$s被炮塔击杀,%1$s被炮塔发射的追踪弹射杀
+death.attack.ieRevolver_potion,%1$s was doused by %2$s's phial shot,%1$s被%2$s的药水射击淹没了,%1$s被%2$s的药水弹淹没了
+death.attack.ieRevolver_potion.item,%1$s was doused by %2$s's phial shot fired from %3$s,%1$s被%2$s用%3$s发射的药水淹没了,%1$s被%2$s用%3$s射出的药水弹淹没了
+death.attack.ieRevolver_potion.turret,%1$s was doused by a turret's phial shot,%1$s被炮塔的药水射击淹没了,%1$s被炮塔的药水弹淹没了
+death.attack.ieTeslaPrimary,%1$s touched the primary circuit of a running Tesla coil,%1$s触碰到了特斯拉线圈的主电缆,%1$s碰到了工作中的特斯拉线圈的初级回路
+desc.immersiveengineering.flavour.barrelTemp,Cannot store hot fluids or gases,不能储存高温流体,不能储存高温流体和气体
 desc.immersiveengineering.flavour.drillhead.level,Mining Level: %1$s,采矿等级：%1$s,挖掘等级：%1$s
 desc.immersiveengineering.flavour.drillhead.size,Mining Area: %1$sx%1$sx%2$s,采矿区域：%1$sx%1$sx%2$s,挖掘范围：%1$sx%1$sx%2$s
 desc.immersiveengineering.flavour.drillhead.speed,Mining Speed: %1$s,采矿速度：%1$s,挖掘速度：%1$s
 desc.immersiveengineering.flavour.fluidStack,%1$s: %2$s/%3$smB,%1$s：%2$s/%3$smB,%1$s: %2$s/%3$smB
+desc.immersiveengineering.flavour.revolver.fenrir,There's nothing I don't cherish!,没什么我不珍惜！,根本不存在所谓不重要的东西！
+desc.immersiveengineering.flavour.revolver.rose,Appearances can be deceiving,外表中充斥着欺骗,枪不可貌相
+desc.immersiveengineering.flavour.revolver.sns,"Blood, Sweat, Steam and Steel",鲜血、汗水、蒸汽、钢铁,鲜血、汗水、蒸汽与钢铁
+desc.immersiveengineering.flavour.revolver.warlord,Don't take my toys away!,不要带走我的玩具！,不要拿走我的玩具！
 desc.immersiveengineering.flavour.toolupgrade_buzzsaw_spareblades,Carry additional blades for the Buzzsaw,携带更多伐木机械锯的锯片,为伐木机械锯携带更多锯片
 desc.immersiveengineering.flavour.toolupgrade_chemthrower_focus,Decreases spread and increases range of the Chemical Thrower,减少化学喷射器的喷射速度，并增加其范围,减少化学喷射器喷射的扩散，并增加其射程
 desc.immersiveengineering.flavour.toolupgrade_chemthrower_multitank,Allows multiple Fluids in the Chemical Thrower,为化学喷射器配备化学流体罐,允许化学喷射器携带多种流体
 desc.immersiveengineering.flavour.toolupgrade_drill_damage,"Increases the attack damage and digging speed of the Mining Drill, stacks up to 3",提升采矿机械钻攻击伤害，最高叠加至3点,提升采矿机械钻的近战伤害和挖掘速度，最多叠加3个
 desc.immersiveengineering.flavour.toolupgrade_drill_lube,Reduces the damage to the Mining Drill head and Buzzsaw blade,减少采矿机械钻受到的损耗,减少采矿机械钻钻头和伐木机械锯锯片受到的损耗
 desc.immersiveengineering.flavour.toolupgrade_powerpack_tesla,Electrocute your attackers,电击你的攻击者,电击攻击你的人
+desc.immersiveengineering.flavour.toolupgrade_railgun_capacitors,Reduces charge time of the Railgun,减少磁轨炮的充电时间,减少磁轨炮的蓄力时间
 desc.immersiveengineering.flavour.toolupgrade_railgun_scope,Allows ranged weapons to zoom in,可以增大远程武器的视野,允许远程武器放大瞄准
 desc.immersiveengineering.flavour.toolupgrade_revolver_bayonet,Adds melee damage to the Revolver,为左轮手枪添加近战伤害,提高左轮手枪的近战伤害
+desc.immersiveengineering.flavour.toolupgrade_revolver_magazine,Increases the Revolver's magazine size,提升左轮手枪弹夹容量,提升左轮手枪的弹匣容量
 desc.immersiveengineering.flavour.toolupgrade_shield_flash,Produces a blinding flash,制作一个来闪瞎你的眼,产生一道致盲闪光
 desc.immersiveengineering.flavour.toolupgrade_shield_magnet,Equips the shield at the press of a button,按下按钮装上盾牌,允许一键装备盾牌
+desc.immersiveengineering.info.attachedTo,"Linking from %1$s, %2$s, %3$s",连接自%1$s，%2$s，%3$s,"连接自%1$s, %2$s, %3$s"
+desc.immersiveengineering.info.attachedToDim,"Linking from %1$s, %2$s, %3$s in Dimension %4$s",连接自%1$s，%2$s，%3$s，位于维度%4$s,"连接自%1$s, %2$s, %3$s，位于维度%4$s"
+desc.immersiveengineering.info.blastFuelTime,Burn time: %1$s,烧制时间：%1$s,燃烧时间：%1$s
+desc.immersiveengineering.info.blockSide.opposite,Opposite Side,反面,背面
+desc.immersiveengineering.info.blueprint.components,Crafting Components,制作组件,合成用零件
+desc.immersiveengineering.info.circuit_table.slot.logic,Logic Components,逻辑组件,逻辑元件
+desc.immersiveengineering.info.colour,Colour: ,颜色：%1$s,颜色：
+desc.immersiveengineering.info.coresample.pos,"Sample taken at %1$s, %2$s",在%1$s，%2$s提取了样本,"在%1$s, %2$s提取了样本"
 desc.immersiveengineering.info.electrodeIntegrity,Integrity %1$s %%,完整度%1$s %%,完整度%1$s%%
+desc.immersiveengineering.info.fertFill,Fertilizer Amount: %1$s,肥料：%1$s,肥料数量：%1$s
+desc.immersiveengineering.info.fertMod,Growth Modifier: %1$s,催熟：%1$s,生长速度增益：%1$s
 desc.immersiveengineering.info.fluidStored,%1$s %2$s mB,%1$s %2$smB,%1$s %2$s mB
 desc.immersiveengineering.info.ift,%1$s IF / tick,%1$sIF/t,%1$s IF / tick
 desc.immersiveengineering.info.mineral.beryl,Beryl,铯绿柱石矿,绿柱石矿
@@ -67,13 +126,24 @@ desc.immersiveengineering.info.redstoneChannel.rec,Channel Receiving: %1$s,频�
 desc.immersiveengineering.info.redstoneChannel.send,Channel Sending: %1$s,频道发送中：%1$s,发送信号频道：%1$s
 desc.immersiveengineering.info.refinery.slot.catalyst,Catalyst,催化,催化剂
 desc.immersiveengineering.info.shader.details.bipride,It's not a phase.,It's not a phase.,这可不是一时兴起。
+desc.immersiveengineering.info.shader.details.erruption,"No particular reference, just another use of vanilla textures, specifically the block breaking overlay.",没有具体的参考，只是原版纹理的另一个用途，特别是方块破坏覆盖。,没有具体的参考，只是原版纹理的另一个用途，具体来说，是方块破坏的叠加层。
+desc.immersiveengineering.info.shader.details.fox,Very fluffy. Named in reference to a specific IRC channel and its inhabitants.,很蓬松，命名出自特定的IRC频道及其用户。,毛茸茸的，命名出自特定的IRC频道及其用户。
+desc.immersiveengineering.info.shader.details.gaypride,Even the penguins do it!,连企鹅都这样做了！,甚至连企鹅也是！
+desc.immersiveengineering.info.shader.details.lesbianpride,Archeologists will call them roommates.,考古学家会称她们为室友。,也许考古学家会称她们为“室友”。
+desc.immersiveengineering.info.shader.details.lususnaturae,"Named after a song on the Volume 4 soundtrack. Also, the name sounds badass.",命名出自第四卷原声带中的一首歌。另外，这个名字听起来很糟糕。,命名出自第四卷原声带中的一首歌。另外，这个名字听起来也很像大反派。
+desc.immersiveengineering.info.shader.details.matrix,"No particular inspiration, just another use for the pipe overlay.",没有特别的灵感，只是管道覆盖的另一个用途。,没有特别的灵感，只是管道叠加层的另一个用途。
 desc.immersiveengineering.info.shader.details.netherforged,An experiment with vanilla's magma texture. Maybe a little bit inspired by DOOM?,用原版岩浆纹理做出的小尝试。也许灵感来自DOOM？,用原版岩浆块纹理做出的小尝试。也许灵感来自DOOM？
+desc.immersiveengineering.info.shader.details.phoenix,"No particular inspiration, just another use for the gradient type of shaders.",没有特别的灵感，只是渐变式皮肤的另一个用途。,没有特别的灵感，只是渐变式着色器的另一个用途。
+desc.immersiveengineering.info.shader.details.rosequartz,"First shader ever made!<br>No direct reference, though the name itself was inspired by a character in the „Inkheart“ series of novels",第一个皮肤的历史！<br>没有确切的参考，虽然这个名字本身是受到“Inkheart”系列小说中的一个角色的启发,第一个皮肤的历史！<br>没有确切的参考，虽然这个名字本身是受到《墨水心》系列小说中的一个角色的启发。
 desc.immersiveengineering.info.shader.immersiveengineering:drill,Mining Drill,岩心钻井,采矿机械钻
 desc.immersiveengineering.info.shader.rarity.uncommon,Uncommon,良好,少见
+entity.immersiveengineering.revolver_shot_flare,Flare,闪光,信号
+gui.immersiveengineering.config.assembler.nonRecursiveIngredients,Non-Recursive use of ingredients,不循环使用材料,不递归使用材料
 gui.immersiveengineering.config.redstone_color_receiving,Receiving Signal Color:,接收到信号的颜色：,接收信号颜色：
 gui.immersiveengineering.config.redstone_color_sending,Sending Signal Color:,发送信号的颜色：,发送信号颜色：
+gui.immersiveengineering.config.turret.ignite_fluid,Ignite Fluid,易燃流体,点燃流体
 manual.immersiveengineering.construction,Construction,结构,建筑方块
 subtitle.immersiveengineering.fermenter,Fermenter whirrs,发酵机：呼呼作响,发酵机：嗡嗡
-subtitle.immersiveengineering.refinery,Refinery whirrs,炼油厂：呼呼作响,炼油厂：嗡嗡
+subtitle.immersiveengineering.refinery,Refinery whirrs,炼油厂：呼呼作响,精炼厂：嗡嗡
 subtitle.immersiveengineering.revolverFire,Gunshot,枪声,枪击声
 subtitle.immersiveengineering.revolverReload,Reload,装填声,装弹声

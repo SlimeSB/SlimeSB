@@ -30,7 +30,7 @@ block.immersiveengineering.clinker_brick_quoin,Clinker Brick Quoin,过烧红砖�
 block.immersiveengineering.clinker_brick_sill,Clinker Brick Sill,过烧红砖窗台
 block.immersiveengineering.concrete_brick,Concrete Brick,混凝土砖
 block.immersiveengineering.concrete_brick_cracked,Cracked Concrete Brick,裂纹混凝土砖
-block.immersiveengineering.concrete_chiseled,Chiseled Concrete,雕纹混凝土砖
+block.immersiveengineering.concrete_chiseled,Chiseled Concrete,雕纹混凝土
 block.immersiveengineering.concrete_fluid_block,Liquid Concrete,液态混凝土
 block.immersiveengineering.concrete_pillar,Concrete Pillar,混凝土柱
 block.immersiveengineering.concrete_reinforced,Reinforced Concrete,强化混凝土
@@ -109,7 +109,7 @@ block.immersiveengineering.warning_sign_warden,Warning Sign - Warden,警告标�
 chat.immersiveengineering.info.crate_sealed,The crate is now sealed and can be picked up,此储物箱已密封，可以拆下来了
 chat.immersiveengineering.warning.crate_unsealed,This crate is not sealed,此储物箱未密封
 config.jade.plugin_immersiveengineering.multiblock_inventory,Multiblock Inventory,多方块结构物品栏
-config.jade.plugin_immersiveengineering.multiblock_tank,Multiblock Tank,多方块结构流体存储
+config.jade.plugin_immersiveengineering.multiblock_tank,Multiblock Tank,多方块结构流体栏
 desc.immersiveengineering.flavour.revolver.einhorn,Rule of §m6§r 8,Rule of §m6§r 8
 desc.immersiveengineering.flavour.toolupgrade_powerpack_magnet,Attract nearby items,吸引附近的物品
 desc.immersiveengineering.flavour.toolupgrade_skyhook_insulation,Prevent electrocution from riding the Skyhook along live wires,防止在通电电线上用天钩移动时触电
@@ -182,7 +182,7 @@ gui.immersiveengineering.config.siren.sound.buzzer,Buzzer,蜂鸣器
 gui.immersiveengineering.config.siren.sound.klaxon,Klaxon,高音喇叭
 gui.immersiveengineering.config.siren.sound.siren,Siren,警笛
 ie.manual.entry.minerals.biomes,§l%1$s§r is a mineral vein found in biomes that are %2$s.,§l%1$s§r是一个可以在%2$s的生物群系找到的矿脉。
-ie.manual.entry.minerals.biomes_and,%1$s and are %2$s,%1$s和%2$s
+ie.manual.entry.minerals.biomes_and,%1$s and are %2$s,%1$s并且是%2$s
 ie.manual.entry.minerals.biomes_or,%1$s or %2$s,%1$s或%2$s
 item.immersiveengineering.bannerpattern_screwdriver,Banner Pattern,旗帜图案
 item.immersiveengineering.bannerpattern_screwdriver.desc,Screwdriver,螺丝刀
